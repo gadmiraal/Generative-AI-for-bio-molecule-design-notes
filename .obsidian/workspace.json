@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "14ea4c5112bf34a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1707e4df65cc58ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edf5a58de26a6b41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To-do.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43ebfcc845530bd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML related/Data augmentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a596de43ff32bad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML related/Ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "375ad910d1fb00eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML related/Language Models/Language Models for protein design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5441b8f4973960b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "7abbaba81f6a6c3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e04bd1970318cb2d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "69ae3cdd0cc47301",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "31b6f77e03498a80",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 209.5
+  },
+  "right": {
+    "id": "05114e833d0dd049",
+    "type": "split",
+    "children": [
+      {
+        "id": "b542904de37be76b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10babd5d37972a8f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "To-do.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f59f128de48b6dba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "To-do.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "920fa8c73e285aa6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6577b2c86c132a24",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "To-do.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 320.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "excel:Create Excel File": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "10babd5d37972a8f",
+  "lastOpenFiles": [
+    "ML related/Language Models/Language Models for protein design.md",
+    "Master Thesis/Papers/pdfs/L. Moffat et al. (2022) - Design in the DARK Learning Deep Generative Models for De Novo Protein Design.pdf",
+    "L. Moffat et al. (2022) - Design in the DARK Learning Deep Generative Models for De Novo Protein Design.pdf",
+    "ML related/Ideas.md",
+    "ML related/Language Models/Language models.md",
+    "ML related/Diffusion Models/Diffusion Models for Protein Design.md",
+    "To-do.md",
+    "Master Thesis/Weekly updates/~$Weekly_Update_3.pptx",
+    "Literature Survey/Papers/Interesting Papers Literature Survey.md",
+    "Wrapped Normal Diffusion Process.md",
+    "ML related/Data augmentation.md",
+    "Master Thesis/Papers/pdfs/G. Valentini et al. (2023) - The promises of large language models for protein design and modeling.pdf",
+    "Master Thesis/Papers/pdfs/H. Shen et al. (2021) - Improving Generalizability of Protein Sequence Models With Data Augmentations.pdf",
+    "Master Thesis/Weekly updates/ppt764.tmp",
+    "Biology related/Atom-by-atom.md",
+    "Master Thesis/Papers/Questions - Atom-by-atom protein generation and beyond with language models.md",
+    "Master Thesis/Papers/Summary - Atom-by-atom protein generation and beyond with language models.md",
+    "Literature Survey/Papers/Paper Notes on Diffusion for Protein Prediction.md",
+    "Biology related/Why or Why not synthetic amino acids.md",
+    "Biology related/Proteins.md",
+    "Biology related/Amino acids.md",
+    "ML related/Diffusion Models/Diffusion Model.md",
+    "ML related/Diffusion Models/Stochastic Differential Equations.md",
+    "ML related/Diffusion Models/Score-Based Generative Models.md",
+    "ML related/Diffusion Models/Equivariant Neural Network Models.md",
+    "ML related/Diffusion Models/Diffusion based Inpainting.md",
+    "ML related/Diffusion Models/Guidance in Diffusion Models.md",
+    "Master Thesis/Papers/Summary - Language models can learn complex molecular distributions.md",
+    "ML related/Language Models",
+    "ML related/Untitled.md",
+    "Master Thesis/Papers/pdfs/Anonymous (2023) - SaProt Protein Language Modeling with Structure-aware Vocabulary.pdf",
+    "Master Thesis/Papers/pdfs/M. Heinzinger et al. (2023) - ProstT5 Bilingual Language Model for Protein Sequence and Structure.pdf",
+    "Master Thesis/Weekly updates/Weekly_Update_3.pptx",
+    "Biology related/Antibodies.md",
+    "Literature Survey/Resources/Example-of-a-protein-structure-pair-between-ligand-bound-and-unbound-states-a-A.png",
+    "Proteins^^Antibodies.md",
+    "Master Thesis/Resources/Pasted image 20231122142000.png",
+    "Literature Survey/Resources/diffusion_types-1.png",
+    "Literature Survey/Resources/diffusion_types_2-1.png",
+    "Literature Survey/Resources/hierarchy-1.png",
+    "Literature Survey/Resources/diffusion_types_3-1.png",
+    "Untitled.canvas",
+    "Generative AI for (bio)molecule design/Literature Survey/Untitled.canvas",
+    "Pasted image 20230907112239.png"
+  ]
+}

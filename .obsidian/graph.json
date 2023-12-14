@@ -1,0 +1,44 @@
+{
+  "collapse-filter": true,
+  "search": "-file:to-do",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"Biology related\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431413
+      }
+    },
+    {
+      "query": "path:\"ML related\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Master Thesis/Papers\"  OR path:\"Literature Survey/Papers\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5402336
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1.4,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.391891891891892,
+  "repelStrength": 14.989604989605,
+  "linkStrength": 0.366943866943867,
+  "linkDistance": 30,
+  "scale": 0.351390522381085,
+  "close": true
+}

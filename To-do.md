@@ -1,0 +1,37 @@
+### Protein
+- [ ] What makes dihedral angles hard to calculate
+- [ ] [[Proteins#Antibodies]]
+- [ ] [[Proteins#Binding to other molecules]]: Bound and unbound state of proteins
+- [ ] [[Amino acids#Evolution]]
+- [ ] [[Amino acids#Unnatural amino acids]]
+- [ ] [[Protein Design]]
+### Generation
+- [ ] [[Equivariant Neural Network Models]]
+	- [x] Group theory and groups: E(3), SU(2), etc.
+	- [ ] Invariant Point Attention
+- [ ] [[Diffusion Models for Protein Design]]
+	- [ ] Post-processing: Alternating Direction Method of Multipliers (ADMM) and Rosetta
+	- [x] Structure-to-Sequence
+	- [x] Sequence-to-Structure
+	- [x] Prediction Models
+	- [ ] Architecture choices
+- [ ] [[Wrapped Normal Diffusion Process]] (Jing et al. 2022)
+- [ ] [[Guidance in Diffusion Models]] 
+	- [x] Classifier Guidance
+	- [x] Is classifier guidance similar to GAN in that one uses classifier/discriminator to steer the denoiser/generator to the right result?
+	- [x] Classifier Free Guidance
+	- [ ] Gradient Guidance
+- [ ] [[Diffusion based Inpainting]]
+- [ ] [[Diffusion Model]]
+	- [ ] DDIM vs DDPM
+	- [x] Score function
+	- [ ] Cold diffusion
+	- [ ] [[Score-Based Generative Models]]
+	- [ ] [[Stochastic Differential Equations]]
+- [ ] [[Language Models for protein design]]
+### Reading
+- [x] Finish summary: [[Summary - Atom-by-atom protein generation and beyond with language models]]
+- [ ] Write summary for [[D. Flam-Shepherd et al. (2022) - Language models can learn complex molecular.pdf]]
+- [ ] [[Jumper, John, et al. Highly accurate protein structure prediction with AlphaFold.pdf]]
+- [ ] [[J.B. Ingraham et al. (2023) - Illuminating protein space with a programmable generative model.pdf]]
+- [ ] [[A. Kirschning (2022) - On the Evolutionary History of the Twenty Encoded Amino Acids.pdf]]

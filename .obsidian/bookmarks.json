@@ -1,0 +1,51 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1694772590907,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1694772579206,
+          "path": "Generative AI for (bio)molecule design/Literature Survey/Wrapped Normal Diffusion Process.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1694772579206,
+          "path": "Generative AI for (bio)molecule design/Literature Survey/Diffusion based Inpainting.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1694772579206,
+          "path": "Generative AI for (bio)molecule design/Literature Survey/Diffusion Model.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1694772579206,
+          "path": "Generative AI for (bio)molecule design/Literature Survey/Equivariant Neural Network Models.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1694772579206,
+          "path": "Generative AI for (bio)molecule design/Literature Survey/Guidance in Diffusion Models.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1694772579206,
+          "path": "Generative AI for (bio)molecule design/Literature Survey/Paper Notes on Diffusion for Protein Prediction.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1694772579206,
+          "path": "Generative AI for (bio)molecule design/Literature Survey/Predicting Proteins using Diffusion Models.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1694772579206,
+          "path": "Generative AI for (bio)molecule design/Literature Survey/Proteins.md"
+        }
+      ],
+      "title": "Notes"
+    }
+  ]
+}
