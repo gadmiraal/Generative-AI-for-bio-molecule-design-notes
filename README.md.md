@@ -1,0 +1,1 @@
+This project contains all my obsidian notes I created during my Literature Survey and my MSc Thesis on the subject of Generative AI for (bio) molecule design.

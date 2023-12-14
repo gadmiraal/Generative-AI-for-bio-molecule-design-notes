@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "e0ada979d259b976",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "09ff2ca87863d38a",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 200
   },
   "right": {
     "id": "05114e833d0dd049",
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML related/Ideas.md",
+                "file": "README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML related/Ideas.md",
+                "file": "README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML related/Ideas.md"
+                "file": "README.md.md"
               }
             }
           }
@@ -172,11 +184,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "43ebfcc845530bd8",
+  "active": "e0ada979d259b976",
   "lastOpenFiles": [
-    "New Text Document.txt",
-    "Untitled.md",
     "ML related/Ideas.md",
+    "README.md.md",
+    "New Text Document.txt",
     "ML related/Data augmentation.md",
     "Literature Survey/Papers/~$paper_table.xlsx",
     "ML related/Language Models/Language Models for protein design.md",
@@ -208,7 +220,6 @@
     "ML related/Language Models",
     "ML related/Untitled.md",
     "Master Thesis/Papers/pdfs/Anonymous (2023) - SaProt Protein Language Modeling with Structure-aware Vocabulary.pdf",
-    "Master Thesis/Papers/pdfs/M. Heinzinger et al. (2023) - ProstT5 Bilingual Language Model for Protein Sequence and Structure.pdf",
     "Biology related/Antibodies.md",
     "Literature Survey/Resources/Example-of-a-protein-structure-pair-between-ligand-bound-and-unbound-states-a-A.png",
     "Master Thesis/Resources/Pasted image 20231122142000.png",
