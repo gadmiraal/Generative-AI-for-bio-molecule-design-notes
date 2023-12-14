@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "e0ada979d259b976",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "09ff2ca87863d38a",
             "type": "leaf",
             "state": {
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "ML related/Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "ML related/Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "ML related/Ideas.md"
               }
             }
           }
@@ -184,10 +172,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e04bd1970318cb2d",
+  "active": "43ebfcc845530bd8",
   "lastOpenFiles": [
-    "ML related/Ideas.md",
     "README.md",
+    "ML related/Ideas.md",
     "New Text Document.txt",
     "ML related/Data augmentation.md",
     "Literature Survey/Papers/~$paper_table.xlsx",
