@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To-do.md",
+                "file": "ML related/Language Models/Language Models for protein design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To-do.md",
+                "file": "ML related/Language Models/Language Models for protein design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To-do.md"
+                "file": "ML related/Language Models/Language Models for protein design.md"
               }
             }
           }
@@ -184,15 +184,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "10babd5d37972a8f",
+  "active": "375ad910d1fb00eb",
   "lastOpenFiles": [
+    "To-do.md",
     "ML related/Language Models/Language Models for protein design.md",
     "Master Thesis/Papers/pdfs/L. Moffat et al. (2022) - Design in the DARK Learning Deep Generative Models for De Novo Protein Design.pdf",
     "L. Moffat et al. (2022) - Design in the DARK Learning Deep Generative Models for De Novo Protein Design.pdf",
     "ML related/Ideas.md",
     "ML related/Language Models/Language models.md",
     "ML related/Diffusion Models/Diffusion Models for Protein Design.md",
-    "To-do.md",
     "Master Thesis/Weekly updates/~$Weekly_Update_3.pptx",
     "Literature Survey/Papers/Interesting Papers Literature Survey.md",
     "Wrapped Normal Diffusion Process.md",
