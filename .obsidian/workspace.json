@@ -25,20 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML related/Data augmentation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a596de43ff32bad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "ML related/Ideas.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,11 +172,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5a596de43ff32bad",
+  "active": "43ebfcc845530bd8",
   "lastOpenFiles": [
+    "New Text Document.txt",
+    "Untitled.md",
+    "ML related/Ideas.md",
+    "ML related/Data augmentation.md",
+    "Literature Survey/Papers/~$paper_table.xlsx",
     "ML related/Language Models/Language Models for protein design.md",
     "ML related/Language Models/Language models.md",
-    "ML related/Ideas.md",
     "Master Thesis/Papers/pdfs/L. Moffat et al. (2022) - Design in the DARK Learning Deep Generative Models for De Novo Protein Design 1.pdf",
     "To-do.md",
     "Master Thesis/Papers/pdfs/L. Moffat et al. (2022) - Design in the DARK Learning Deep Generative Models for De Novo Protein Design.pdf",
@@ -196,7 +188,6 @@
     "Master Thesis/Weekly updates/~$Weekly_Update_3.pptx",
     "Literature Survey/Papers/Interesting Papers Literature Survey.md",
     "Wrapped Normal Diffusion Process.md",
-    "ML related/Data augmentation.md",
     "Master Thesis/Papers/pdfs/G. Valentini et al. (2023) - The promises of large language models for protein design and modeling.pdf",
     "Master Thesis/Papers/pdfs/H. Shen et al. (2021) - Improving Generalizability of Protein Sequence Models With Data Augmentations.pdf",
     "Master Thesis/Weekly updates/ppt764.tmp",
@@ -218,10 +209,8 @@
     "ML related/Untitled.md",
     "Master Thesis/Papers/pdfs/Anonymous (2023) - SaProt Protein Language Modeling with Structure-aware Vocabulary.pdf",
     "Master Thesis/Papers/pdfs/M. Heinzinger et al. (2023) - ProstT5 Bilingual Language Model for Protein Sequence and Structure.pdf",
-    "Master Thesis/Weekly updates/Weekly_Update_3.pptx",
     "Biology related/Antibodies.md",
     "Literature Survey/Resources/Example-of-a-protein-structure-pair-between-ligand-bound-and-unbound-states-a-A.png",
-    "Proteins^^Antibodies.md",
     "Master Thesis/Resources/Pasted image 20231122142000.png",
     "Literature Survey/Resources/diffusion_types-1.png",
     "Literature Survey/Resources/diffusion_types_2-1.png",

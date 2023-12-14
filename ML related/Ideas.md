@@ -11,6 +11,9 @@
 - Atom-by-atom with a transformer model to generate ligands from sequence
 - Protein ensemble is a fairly large unexplored part of research
 - Diffusion is good for dynamicity of structures
+- Atom-by-atom and 3Di representation of protein and diffuse using a transformer 
+	- How do you add noise to the atom-by-atom representation
+- Building on existing language/diffusion models could be advantageous 
 ### More fleshed out ideas
 #### Idea 1
 Use a pretrained GPT like architecture and fine tune it on the all atom representation and use it to do sequence and structure prediction
@@ -19,3 +22,4 @@ Train the all atom representation on a GPT like architecture and finetune for se
 #### Idea 3
 Use an atom-by-atom pLM to obtain certain feature embeddings for a diffusion task
 #### Idea 4
+D
