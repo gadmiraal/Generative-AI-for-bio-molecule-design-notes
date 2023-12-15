@@ -16,10 +16,12 @@
 - Building on existing language/diffusion models could be advantageous 
 ### More fleshed out ideas
 #### Idea 1
-Use a pretrained GPT like architecture and fine tune it on the all atom representation and use it to do sequence and structure prediction
+Use ProtGPT2 and fine tune it on the all atom representation in combination with 3Di. Then use it to do sequence and structure prediction
 #### Idea 2
 Train the all atom representation on a GPT like architecture and finetune for sequence and structure prediction
 #### Idea 3
 Use an atom-by-atom pLM to obtain certain feature embeddings for a diffusion task
 #### Idea 4
-D
+We use the all atom representation + the 3Di tokens for a rich representation of a protein both in 1D and in 3D space. We create the model in such a way that 3Di tokens are optional so we can do an ablation study on the effects of using both. Furthermore we can even use MSA for an even richer representation, which we should also ablate. Due to computational power it might be better to for now only try this on smaller proteins of a length of max 500(?) amino acids. We can then use three types of language models
+- **Bert**: Use an encoder architecture to map protein to an embedding/latent space which can then be used for feature extraction like secondary structure prediction, contact prediction, remote homology detection and etc.
+- **GPT**: Use an decoder architecture 
