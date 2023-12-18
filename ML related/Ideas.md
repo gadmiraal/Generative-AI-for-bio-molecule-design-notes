@@ -14,6 +14,7 @@
 - Atom-by-atom and 3Di representation of protein and diffuse using a transformer 
 	- How do you add noise to the atom-by-atom representation
 - Building on existing language/diffusion models could be advantageous 
+- Ablation maybe for SELFIES and SMILES?
 ### More fleshed out ideas
 #### Idea 1
 Use ProtGPT2 and fine tune it on the all atom representation in combination with 3Di. Then use it to do sequence and structure prediction
