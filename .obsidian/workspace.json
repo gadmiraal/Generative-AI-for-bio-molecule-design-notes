@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML related/Ideas.md",
+                "file": "ML related/Language Models/Language Models for protein design.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML related/Ideas.md",
+                "file": "ML related/Language Models/Language Models for protein design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML related/Ideas.md",
+                "file": "ML related/Language Models/Language Models for protein design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML related/Ideas.md"
+                "file": "ML related/Language Models/Language Models for protein design.md"
               }
             }
           }
@@ -174,14 +174,14 @@
   },
   "active": "43ebfcc845530bd8",
   "lastOpenFiles": [
+    "ML related/Language Models/Language models.md",
+    "ML related/Ideas.md",
     "Master Thesis/Papers/pdfs/M. van Kempen et al. (2022) - Fast and accurate protein structure search with Foldseek.pdf",
     "ML related/Language Models/Language Models for protein design.md",
-    "ML related/Ideas.md",
     "README.md",
     "New Text Document.txt",
     "ML related/Data augmentation.md",
     "Literature Survey/Papers/~$paper_table.xlsx",
-    "ML related/Language Models/Language models.md",
     "Master Thesis/Papers/pdfs/L. Moffat et al. (2022) - Design in the DARK Learning Deep Generative Models for De Novo Protein Design 1.pdf",
     "To-do.md",
     "Master Thesis/Papers/pdfs/L. Moffat et al. (2022) - Design in the DARK Learning Deep Generative Models for De Novo Protein Design.pdf",
@@ -208,7 +208,6 @@
     "Master Thesis/Papers/Summary - Language models can learn complex molecular distributions.md",
     "ML related/Language Models",
     "ML related/Untitled.md",
-    "Master Thesis/Papers/pdfs/Anonymous (2023) - SaProt Protein Language Modeling with Structure-aware Vocabulary.pdf",
     "Biology related/Antibodies.md",
     "Literature Survey/Resources/Example-of-a-protein-structure-pair-between-ligand-bound-and-unbound-states-a-A.png",
     "Master Thesis/Resources/Pasted image 20231122142000.png",
