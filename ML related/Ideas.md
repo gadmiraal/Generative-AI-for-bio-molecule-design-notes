@@ -15,6 +15,7 @@
 	- How do you add noise to the atom-by-atom representation
 - Building on existing language/diffusion models could be advantageous 
 - Ablation maybe for SELFIES and SMILES?
+- Is using 3Di states better then using angles?
 ### More fleshed out ideas
 #### Idea 1
 Use ProtGPT2 and fine tune it on the all atom representation in combination with 3Di. Then use it to do sequence and structure prediction

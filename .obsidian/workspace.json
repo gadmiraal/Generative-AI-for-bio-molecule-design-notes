@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML related/Language Models/Language Models for protein design.md",
+                "file": "ML related/Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML related/Language Models/Language Models for protein design.md",
+                "file": "ML related/Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML related/Language Models/Language Models for protein design.md",
+                "file": "ML related/Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML related/Language Models/Language Models for protein design.md"
+                "file": "ML related/Ideas.md"
               }
             }
           }
@@ -174,11 +174,11 @@
   },
   "active": "43ebfcc845530bd8",
   "lastOpenFiles": [
+    "ML related/Language Models/Language Models for protein design.md",
     "Literature Survey/Papers/~$paper_table.xlsx",
     "ML related/Language Models/Language models.md",
     "ML related/Ideas.md",
     "Master Thesis/Papers/pdfs/M. van Kempen et al. (2022) - Fast and accurate protein structure search with Foldseek.pdf",
-    "ML related/Language Models/Language Models for protein design.md",
     "README.md",
     "New Text Document.txt",
     "ML related/Data augmentation.md",
