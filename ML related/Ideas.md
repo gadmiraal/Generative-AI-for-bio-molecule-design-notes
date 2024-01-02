@@ -26,7 +26,7 @@ Train the all atom representation on a GPT like architecture and finetune for se
 Use an atom-by-atom pLM to obtain certain feature embeddings for a diffusion task
 #### Idea 4
 We use the all atom representation + the 3Di tokens for a rich representation of a protein both in 1D and in 3D space. We create the model in such a way that 3Di tokens are optional so we can do an ablation study on the effects of using both. Furthermore we can even use MSA/Foldseek for an even richer representation, which we should also ablate. Due to computational power it might be better to for now only try this on smaller proteins of a length of max 500(?) amino acids. We can then use three types of language models for three different types of tasks.
-- **Bert**: Use an encoder architecture to map protein to an embedding/latent space which can then be used for feature extraction like secondary structure prediction, contact prediction, remote homology detection and etc.
+- **BERT**: Use an encoder architecture to map protein to an embedding/latent space which can then be used for feature extraction like secondary structure prediction, contact prediction, remote homology detection and etc.
 - **GPT**: Use an decoder architecture to be able to generate new sequences. 
 - **Transformer**: Use the full encoder-decoder transformer architecture to translate a protein to its ligand pair. We can also without using the 3Di tokens as input translate the amino acids 1D sequence to its 3Di tokens.
 
