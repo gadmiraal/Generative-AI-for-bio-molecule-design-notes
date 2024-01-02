@@ -16,6 +16,7 @@
 - Building on existing language/diffusion models could be advantageous 
 - Ablation maybe for SELFIES and SMILES?
 - Is using 3Di states better then using angles?
+- You can randomize atom ordering in SMILES and not change underlying structure
 ### More fleshed out ideas
 #### Idea 1
 Use ProtGPT2 and fine tune it on the all atom representation in combination with 3Di. Then use it to do sequence and structure prediction
