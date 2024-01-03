@@ -1,3 +1,11 @@
+# Research Question
+- **Can we use a transformer to do both sequence to structure and structure to sequence generation using a diffusion model?** 
+	- Use the all atom representation for sequence representation
+	- Use ... for structure representation
+- Using this we learn a co-design representation of a protein in the transformer model but we do not explicitly do co-design?
+- The drawback of this approach is that we do not fully leverage the possibility to design proteins with unnatural amino acids.
+- 
+
 ### Gedachtespinsel
 - Many models can only be as good as its data, how can these new models surpass its training data?
 	- Look at AlphaGo 
@@ -32,3 +40,6 @@ We use the all atom representation + the 3Di tokens for a rich representation of
 
 #### Idea 4
 We train a smaller model with the all atom representation and fine tune it using a large scale pLM. Like the instructGPT paper.
+
+
+

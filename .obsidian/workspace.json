@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To-do.md",
+                "file": "ML related/Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To-do.md",
+                "file": "ML related/Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To-do.md",
+                "file": "ML related/Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To-do.md"
+                "file": "ML related/Ideas.md"
               }
             }
           }
@@ -160,11 +159,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "69ae3cdd0cc47301",
+  "active": "edf5a58de26a6b41",
   "lastOpenFiles": [
+    "To-do.md",
     "Literature Survey/Papers/Interesting Papers Literature Survey.md",
     "ML related/Ideas.md",
-    "To-do.md",
     "ML related/Language Models/Language Models for protein design.md",
     "ML related/Language Models/Language models.md",
     "Master Thesis/Papers/pdfs/G. Valentini et al. (2023) - The promises of large language models for protein design and modeling.pdf",
