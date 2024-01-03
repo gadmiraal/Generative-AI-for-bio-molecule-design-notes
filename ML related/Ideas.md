@@ -1,5 +1,5 @@
 # Research Question
-- **Can we use a transformer to do both sequence to structure and structure to sequence generation using a diffusion model?** 
+- **Can we use a diffusion model with a transformer architecture to do both sequence to structure and structure to sequence generation using a diffusion model?** 
 	- Use the all atom representation for sequence representation
 	- Use ... for structure representation
 - Using this we learn a co-design representation of a protein in the transformer model but we do not explicitly do co-design?
