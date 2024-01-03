@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML related/Ideas.md",
+                "file": "Literature Survey/Papers/Interesting Papers Literature Survey.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML related/Ideas.md",
+                "file": "Literature Survey/Papers/Interesting Papers Literature Survey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML related/Ideas.md",
+                "file": "Literature Survey/Papers/Interesting Papers Literature Survey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML related/Ideas.md"
+                "file": "Literature Survey/Papers/Interesting Papers Literature Survey.md"
               }
             }
           }
@@ -174,8 +174,8 @@
   },
   "active": "465f2b24f3edb168",
   "lastOpenFiles": [
-    "To-do.md",
     "ML related/Ideas.md",
+    "To-do.md",
     "ML related/Language Models/Language Models for protein design.md",
     "ML related/Language Models/Language models.md",
     "Master Thesis/Papers/pdfs/G. Valentini et al. (2023) - The promises of large language models for protein design and modeling.pdf",
