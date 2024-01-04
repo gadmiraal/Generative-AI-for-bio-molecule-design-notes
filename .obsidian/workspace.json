@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scenarios.md",
+                "file": "MSc Thesis Scenarios for All-atom representation.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scenarios.md",
+                "file": "MSc Thesis Scenarios for All-atom representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scenarios.md",
+                "file": "MSc Thesis Scenarios for All-atom representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scenarios.md"
+                "file": "MSc Thesis Scenarios for All-atom representation.md"
               }
             }
           }
@@ -161,9 +161,10 @@
   },
   "active": "edf5a58de26a6b41",
   "lastOpenFiles": [
+    "ML related/Language Models/Language Models for protein design.md",
+    "MSc Thesis Scenarios for All-atom representation.md",
     "ML related/Ideas.md",
     "ML related/Scenarios/Scenario 2.md",
-    "Scenarios.md",
     "ML related/Scenarios/Scenario 4.md",
     "ML related/Scenarios/Scenario 3.md",
     "ML related/Scenarios/Scenario 1.md",
@@ -172,7 +173,6 @@
     "ML related/Scenarios",
     "Master Thesis/Weekly updates/~$Weekly_Update_5.pptx",
     "Literature Survey/Papers/~$paper_table.xlsx",
-    "ML related/Language Models/Language Models for protein design.md",
     "Master Thesis/Papers/pdfs/Z. Zhang, et al. (2023) - Pre-Training Protein Encoder via Siamese Sequence-Structure Diffusion Trajectory Prediction.pdf",
     "To-do.md",
     "Literature Survey/Papers/Interesting Papers Literature Survey.md",
