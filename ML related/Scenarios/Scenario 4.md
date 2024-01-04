@@ -5,7 +5,7 @@ Explore different combinations of sequence and structure representations
 - Functional groups (atom motifs)
 - Amino acids
 - Amino acids motifs
-
 **Structure representations**
-- Atom coordinates
-- 
+- Atom-specific coordinates
+- $C_\alpha$ placements with the 6 rotational angles
+- Only $C_\alpha$ placement
