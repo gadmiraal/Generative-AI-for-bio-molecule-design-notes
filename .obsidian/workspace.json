@@ -20,6 +20,54 @@
             }
           },
           {
+            "id": "282577508468b046",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scenario 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f676b137314c8fcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scenario 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9331840bc2caee7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scenario 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76655f5e4a2c896b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scenario 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "09ff2ca87863d38a",
             "type": "leaf",
             "state": {
@@ -31,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -97,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML related/Ideas.md",
+                "file": "Scenario 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML related/Ideas.md",
+                "file": "Scenario 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML related/Ideas.md"
+                "file": "Scenario 4.md"
               }
             }
           }
@@ -159,12 +208,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "edf5a58de26a6b41",
+  "active": "76655f5e4a2c896b",
   "lastOpenFiles": [
+    "Scenario 3.md",
+    "Scenario 4.md",
+    "Untitled",
+    "Scenario 2.md",
+    "Scenario 1.md",
+    "ML related/Ideas.md",
     "Master Thesis/Weekly updates/~$Weekly_Update_5.pptx",
     "Literature Survey/Papers/~$paper_table.xlsx",
     "ML related/Language Models/Language Models for protein design.md",
-    "ML related/Ideas.md",
     "Master Thesis/Papers/pdfs/Z. Zhang, et al. (2023) - Pre-Training Protein Encoder via Siamese Sequence-Structure Diffusion Trajectory Prediction.pdf",
     "To-do.md",
     "Literature Survey/Papers/Interesting Papers Literature Survey.md",
@@ -177,7 +231,6 @@
     "README.md",
     "New Text Document.txt",
     "ML related/Data augmentation.md",
-    "Master Thesis/Papers/pdfs/L. Moffat et al. (2022) - Design in the DARK Learning Deep Generative Models for De Novo Protein Design 1.pdf",
     "ML related/Diffusion Models/Diffusion Models for Protein Design.md",
     "Wrapped Normal Diffusion Process.md",
     "Biology related/Atom-by-atom.md",
@@ -193,9 +246,6 @@
     "ML related/Diffusion Models/Equivariant Neural Network Models.md",
     "ML related/Diffusion Models/Diffusion based Inpainting.md",
     "ML related/Diffusion Models/Guidance in Diffusion Models.md",
-    "Master Thesis/Papers/Summary - Language models can learn complex molecular distributions.md",
-    "ML related/Untitled.md",
-    "Biology related/Antibodies.md",
     "Literature Survey/Resources/Example-of-a-protein-structure-pair-between-ligand-bound-and-unbound-states-a-A.png",
     "Master Thesis/Resources/Pasted image 20231122142000.png",
     "Literature Survey/Resources/diffusion_types-1.png",
