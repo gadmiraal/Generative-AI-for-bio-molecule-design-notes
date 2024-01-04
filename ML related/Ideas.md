@@ -1,12 +1,16 @@
-# Research Question
-- **Can we use a diffusion model with a transformer architecture to do both sequence to structure and structure to sequence generation using a diffusion model?** 
+# Research Question #1
+- **Can a diffusion model with a transformer architecture do both protein sequence to protein structure generation and protein structure to protein sequence generation** 
 	- Use the transformers ability to translate to go from sequence to structure and vice versa
 		- Like ProstT5 but cast it as a diffusion problem instead of a language problem
 	- Use the all atom representation for sequence representation
 	- Use … for structure representation
+		- Depending on the structure representation do we achieve equivariance?
 - Using this we learn a co-design representation of a protein in the transformer model but we do not explicitly do co-design?
 - The drawback of this approach is that we do not fully leverage the possibility to design proteins with unnatural amino acids.
-- 
+
+# Research Question #2
+- **Can a diffusion model with a GPT-like architecture generate *de novo* proteins using an all-atom representation of a protein?**
+	- Like the All-Atom paper but cast the problem as a diffusion problem instead of a language problem
 
 ### Gedachtespinsel
 - Many models can only be as good as its data, how can these new models surpass its training data?
