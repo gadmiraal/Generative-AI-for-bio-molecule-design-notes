@@ -13,43 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML related/Ideas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f676b137314c8fcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML related/Scenarios/Scenario 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9331840bc2caee7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML related/Scenarios/Scenario 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76655f5e4a2c896b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML related/Scenarios/Scenario 4.md",
+                "file": "Scenarios.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML related/Scenarios/Scenario 1.md",
+                "file": "Scenarios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML related/Scenarios/Scenario 1.md",
+                "file": "Scenarios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML related/Scenarios/Scenario 1.md"
+                "file": "Scenarios.md"
               }
             }
           }
@@ -196,16 +159,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f676b137314c8fcc",
+  "active": "edf5a58de26a6b41",
   "lastOpenFiles": [
-    "ML related/Scenarios/Scenario 2.md",
     "ML related/Ideas.md",
-    "ML related/Data augmentation.md",
-    "ML related/Scenarios/Scenario 1.md",
-    "ML related/Scenarios",
+    "ML related/Scenarios/Scenario 2.md",
+    "Scenarios.md",
     "ML related/Scenarios/Scenario 4.md",
     "ML related/Scenarios/Scenario 3.md",
+    "ML related/Scenarios/Scenario 1.md",
     "Untitled",
+    "ML related/Data augmentation.md",
+    "ML related/Scenarios",
     "Master Thesis/Weekly updates/~$Weekly_Update_5.pptx",
     "Literature Survey/Papers/~$paper_table.xlsx",
     "ML related/Language Models/Language Models for protein design.md",
