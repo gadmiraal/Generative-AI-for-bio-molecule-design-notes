@@ -20,9 +20,13 @@ Different experimental variables
 - Functional groups (atom motifs)
 - Amino acids
 - Amino acids motifs
-
+**Include additional information**
+- 3Di tokens
+- PML features
+- 
 ### Research question
 ### Experiments
+
 # Scenario 3
 *Explore different model architectures to find which works best with long sequence lengths (i.e. mamba, hyena, etc.)*
 ***
