@@ -13,7 +13,7 @@ Different experimental variables
 **Architecture**
 - Transformer
 - …
-**Discrete diffusion**
+**Discrete diffusion types**
 - …
 **Sequence representations**
 - All-atom representation
@@ -21,7 +21,8 @@ Different experimental variables
 - Amino acids
 - Amino acids motifs
 
-
+### Research question
+### Experiments
 # Scenario 3
 *Explore different model architectures to find which works best with long sequence lengths (i.e. mamba, hyena, etc.)*
 ***
