@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML related/MSc Thesis Scenarios for All-atom representation.md",
-                "mode": "source",
+                "file": "Master Thesis/Ideas.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML related/Language Models/Language Models for protein design.md",
+                "file": "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML related/MSc Thesis Scenarios for All-atom representation.md",
+                "file": "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML related/MSc Thesis Scenarios for All-atom representation.md",
+                "file": "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML related/MSc Thesis Scenarios for All-atom representation.md"
+                "file": "Master Thesis/MSc Thesis Scenarios for All-atom representation.md"
               }
             }
           }
@@ -159,17 +160,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e04bd1970318cb2d",
+  "active": "09ff2ca87863d38a",
   "lastOpenFiles": [
     "ML related/Language Models/Language Models for protein design.md",
-    "ML related/MSc Thesis Scenarios for All-atom representation.md",
-    "ML related/Ideas.md",
+    "Master Thesis/Ideas.md",
+    "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
+    "Biology related/Atom-by-atom.md",
+    "ML related/Data augmentation.md",
     "ML related/Scenarios/Scenario 2.md",
     "ML related/Scenarios/Scenario 4.md",
     "ML related/Scenarios/Scenario 3.md",
     "ML related/Scenarios/Scenario 1.md",
     "Untitled",
-    "ML related/Data augmentation.md",
     "ML related/Scenarios",
     "Master Thesis/Weekly updates/~$Weekly_Update_5.pptx",
     "Literature Survey/Papers/~$paper_table.xlsx",
@@ -185,7 +187,6 @@
     "README.md",
     "ML related/Diffusion Models/Diffusion Models for Protein Design.md",
     "Wrapped Normal Diffusion Process.md",
-    "Biology related/Atom-by-atom.md",
     "Master Thesis/Papers/Questions - Atom-by-atom protein generation and beyond with language models.md",
     "Master Thesis/Papers/Summary - Atom-by-atom protein generation and beyond with language models.md",
     "Literature Survey/Papers/Paper Notes on Diffusion for Protein Prediction.md",
