@@ -14,9 +14,8 @@ Different experimental variables
 - Transformer
 - …
 **Discrete diffusion types**
-- Apply categorical noise directly to sequence
+- Apply categorical noise directly to sequence (use a masking technique)
 - Apply Gaussian noise to token-vector embeddings
-- Masking
 **Sequence representations**
 - All-atom representation
 - Functional groups (atom motifs)
@@ -31,6 +30,7 @@ Different experimental variables
 - Inpainting
 - Guided or non-guided
 	- Classifier, Gradient or Gradient-Free 
+- Finetune on unnatural amino acids
 ### Research question
 ### Experiments
 
