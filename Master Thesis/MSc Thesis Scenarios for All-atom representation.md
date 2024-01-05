@@ -24,7 +24,7 @@ Different experimental variables
 **Include additional information**
 - 3Di tokens
 - PML features
-- 
+**Objectives**
 ### Research question
 ### Experiments
 
