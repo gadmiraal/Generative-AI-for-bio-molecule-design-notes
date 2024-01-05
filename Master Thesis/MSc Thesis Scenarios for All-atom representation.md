@@ -14,8 +14,9 @@ Different experimental variables
 - Transformer
 - …
 **Discrete diffusion types**
+- Apply categorical noise directly to sequence
+- Apply Gaussian noise to token-vector embeddings
 - Masking
-- 
 **Sequence representations**
 - All-atom representation
 - Functional groups (atom motifs)
@@ -24,7 +25,12 @@ Different experimental variables
 **Include additional information**
 - 3Di tokens
 - PML features
+- MLA
 **Objectives**
+- De novo generation
+- Inpainting
+- Guided or non-guided
+	- Classifier, Gradient or Gradient-Free 
 ### Research question
 ### Experiments
 
