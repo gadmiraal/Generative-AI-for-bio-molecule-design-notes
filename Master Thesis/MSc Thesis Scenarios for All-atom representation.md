@@ -14,7 +14,8 @@ Different experimental variables
 - Transformer
 - …
 **Discrete diffusion types**
-- …
+- Masking
+- 
 **Sequence representations**
 - All-atom representation
 - Functional groups (atom motifs)
