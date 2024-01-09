@@ -46,6 +46,8 @@ Different experimental variables
 - Finetune on unnatural amino acids
 	- After the all-atom model is created and trained we can fine-tune the model further on unnatural amino acids
 **What to compare**
+- Training time
+- Loss on training, validation and test set
 - Protein validity
 	- Are generated molecules in fact proteins
 - Atom distribution
@@ -60,10 +62,17 @@ Different experimental variables
 
 ### Research question
 ### Experiments
-**Which architecture to use for **
+**Which architecture to use for all atom representation**
+Train different diffusion models with different architectures and see which is the best. We can compare on training time and loss 
+
+**Which type of discrete diffusion to try**
+Train two models where we compare categorical noise and gaussian noise
+
+**Comparison of representation**
+Train two models were we compare all-atom sequence vs. AA sequence
 
 **Testing multiple subsets of protein length**
-Train multiple models were we compare how well the architecture can handle different protein lengths. Note that each model should have the same amount of training data for a fair comparison. We compare on protein validity, atom distribution, structural validity and diversity
+Train multiple models were we compare how well the architecture can handle different protein lengths. Note that each model should have the same amount of training data for a fair comparison. We can compare on protein validity, atom distribution, structural validity and diversity
 
 **To augment or not to augment?**
 Train two models where one is trained with data augmentation using restricted randomized SMILES ordering and the other is not. We compare on protein validity, atom distribution, structural validity and diversity. 
