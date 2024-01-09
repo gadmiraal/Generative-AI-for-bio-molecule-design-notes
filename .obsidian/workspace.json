@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "09ff2ca87863d38a",
+            "id": "b43857f695fd68c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -45,6 +45,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "723d120ba35b260e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09ff2ca87863d38a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Master Thesis/Papers/Summary - Atom-by-atom protein generation and beyond with language models.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,16 +190,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "09ff2ca87863d38a",
+  "active": "b43857f695fd68c2",
   "lastOpenFiles": [
+    "Master Thesis/Papers/Summary - Atom-by-atom protein generation and beyond with language models.md",
+    "Master Thesis/Ideas.md",
+    "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
+    "Master Thesis/Papers/pdfs/D. Flam-Sheperd et al. (2023) - Atom-by-atom protein generatio and beyond with language models.pdf",
     "Master Thesis/Papers/pdfs/J. Arus-Pous, et al (2019) - Randomized SMILES strings improve the quality of molecular generative models.pdf",
     "Literature Survey/Papers/~$paper_table.xlsx",
     "Biology related/Proteins.md",
-    "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
     "Untitled.md",
     "Master Thesis/Papers/pdfs/N. Gruver, et al. (2023) - Protein Design with Guided Discrete Diffusion.pdf",
     "ML related/Language Models/Language Models for protein design.md",
-    "Master Thesis/Ideas.md",
     "Biology related/Atom-by-atom.md",
     "ML related/Data augmentation.md",
     "ML related/Scenarios/Scenario 2.md",
@@ -197,13 +217,10 @@
     "ML related/Language Models/Language models.md",
     "Master Thesis/Papers/pdfs/G. Valentini et al. (2023) - The promises of large language models for protein design and modeling.pdf",
     "Master Thesis/Weekly updates/Weekly_Update_5.pptx",
-    "Master Thesis/Weekly updates/Weekly_Update_6.pptx",
-    "Master Thesis/Weekly updates/Weekly_Update_3 - Copy.pptx",
     "README.md",
     "ML related/Diffusion Models/Diffusion Models for Protein Design.md",
     "Wrapped Normal Diffusion Process.md",
     "Master Thesis/Papers/Questions - Atom-by-atom protein generation and beyond with language models.md",
-    "Master Thesis/Papers/Summary - Atom-by-atom protein generation and beyond with language models.md",
     "Literature Survey/Papers/Paper Notes on Diffusion for Protein Prediction.md",
     "Biology related/Why or Why not synthetic amino acids.md",
     "Biology related/Amino acids.md",

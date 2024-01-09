@@ -35,7 +35,7 @@ Different experimental variables
 **Augmentation on all atom representation**
 - No augmentation so we use only SMILES canonical ordering
 - Unrestricted randomized SMILES ordering
-- Restricted randomized SMILES ordering **restricted has already been found to be the best**
+- Restricted randomized SMILES ordering **restricted has already been found to be the best[^2]**
 **Objectives**
 - De novo generation
 	- Generate completely new proteins which have not been found in nature (yet)
@@ -45,12 +45,29 @@ Different experimental variables
 	- A diffusion model can be guided to a certain sub-distribution during sampling. This can  be done using the following methods: Classifier, Gradient or Gradient-Free 
 - Finetune on unnatural amino acids
 	- After the all-atom model is created and trained we can fine-tune the model further on unnatural amino acids
+**What to compare**
+- Protein validity
+	- Are generated molecules in fact proteins
+- Atom distribution
+	- How well do we capture the training atom distribution with the generated proteins
+- Structural validity
+	- Check if the generated proteins are structurally valid using AF2
+- Diversity
+	- How diverse or similar are the generated proteins compared to the training data 
+**Datasets**
+- Protein Data Bank (PDB)
+- …
+
 ### Research question
 ### Experiments
-**Testing multiple stages of protein length**
-Train multiple models were we compare how well the architecture can handle different protein lengths. 
+**Which architecture to use for **
 
-****
+**Testing multiple subsets of protein length**
+Train multiple models were we compare how well the architecture can handle different protein lengths. Note that each model should have the same amount of training data for a fair comparison. We compare on protein validity, atom distribution, structural validity and diversity
+
+**To augment or not to augment?**
+Train two models where one is trained with data augmentation using restricted randomized SMILES ordering and the other is not. We compare on protein validity, atom distribution, structural validity and diversity. 
+
 
 # Scenario 3
 *Explore different model architectures to find which works best with long sequence lengths (i.e. mamba, hyena, etc.)*
@@ -76,3 +93,4 @@ There exists several possibilities to represent a protein both structurally and 
 
 
 [^1]: [[D. Flam-Sheperd et al. (2023) - Atom-by-atom protein generatio and beyond with language models.pdf]]
+[^2]: [[J. Arus-Pous, et al (2019) - Randomized SMILES strings improve the quality of molecular generative models.pdf]]
