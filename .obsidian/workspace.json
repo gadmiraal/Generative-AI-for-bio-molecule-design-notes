@@ -38,13 +38,13 @@
               "type": "markdown",
               "state": {
                 "file": "Biology related/Proteins.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology related/Proteins.md",
+                "file": "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology related/Proteins.md",
+                "file": "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology related/Proteins.md"
+                "file": "Master Thesis/MSc Thesis Scenarios for All-atom representation.md"
               }
             }
           }
@@ -172,10 +172,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9a472ddb505b3882",
+  "active": "09ff2ca87863d38a",
   "lastOpenFiles": [
-    "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
+    "Literature Survey/Papers/~$paper_table.xlsx",
     "Biology related/Proteins.md",
+    "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
     "Untitled.md",
     "Master Thesis/Papers/pdfs/N. Gruver, et al. (2023) - Protein Design with Guided Discrete Diffusion.pdf",
     "ML related/Language Models/Language Models for protein design.md",
@@ -189,7 +190,6 @@
     "Untitled",
     "ML related/Scenarios",
     "Master Thesis/Weekly updates/~$Weekly_Update_5.pptx",
-    "Literature Survey/Papers/~$paper_table.xlsx",
     "Master Thesis/Papers/pdfs/Z. Zhang, et al. (2023) - Pre-Training Protein Encoder via Siamese Sequence-Structure Diffusion Trajectory Prediction.pdf",
     "To-do.md",
     "Literature Survey/Papers/Interesting Papers Literature Survey.md",
@@ -209,7 +209,6 @@
     "ML related/Diffusion Models/Diffusion Model.md",
     "ML related/Diffusion Models/Stochastic Differential Equations.md",
     "ML related/Diffusion Models/Score-Based Generative Models.md",
-    "ML related/Diffusion Models/Equivariant Neural Network Models.md",
     "Literature Survey/Resources/Example-of-a-protein-structure-pair-between-ligand-bound-and-unbound-states-a-A.png",
     "Master Thesis/Resources/Pasted image 20231122142000.png",
     "Literature Survey/Resources/diffusion_types-1.png",

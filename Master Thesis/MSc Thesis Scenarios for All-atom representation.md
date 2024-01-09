@@ -12,7 +12,9 @@ Different experiments where we fix all but one variable and explore the results.
 Different experimental variables
 **Architecture**
 - Transformer
-- …
+- MLP
+- UNET
+- (Optional) newer models like Hyena and MAMBA
 **Discrete diffusion types**
 - Apply categorical noise directly to sequence (use a masking technique)
 - Apply Gaussian noise to token-vector embeddings
@@ -20,7 +22,7 @@ Different experimental variables
 - All-atom representation
 - Functional groups or atom motifs (e.g. $-OH$, $-NH_2$ or $-CH_3$ ) 
 - Amino acids
-- Amino acids motifs (e.g. $\alpha$-Helices, $\beta$-plate )
+- Amino acids motifs (e.g. $\alpha$-Helices or $\beta$-plate )
 **Include additional information**
 - 3Di tokens
 	- An encoded sequence that describes the structure of a protein per amino acid
@@ -47,7 +49,7 @@ Transformer were initially the SOTA for handling sequences of longer lengths. On
 
 Proteins modelling has thus far only been done with primarily smaller amino acid sequence length (max several hundreds) because of space and time limitations. These newer models could pave the way to explore the possibility to better model and design proteins of longer lengths. This also opens up to the way to better explore the all-atom protein representation for proteins. This representation blows up the the already long amino acids representation to even greater lengths. 
 # Scenario 4
-*Explore different combinations of protein sequence and structure representations*
+*Explore different combinations of protein sequence and structure representations and find optimal settings*
 ***
 There exists several possibilities to represent a protein both structurally and sequentially. These representation are given below and are ordered from the most low-level, information rich and flexible option to the most high-level, information poor and more strict option.
 
