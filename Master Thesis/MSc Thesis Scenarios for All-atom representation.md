@@ -68,8 +68,29 @@ Train different diffusion models with different architectures and see which is t
 **Which type of discrete diffusion to try**
 Train two models where we compare categorical noise and gaussian noise
 
-**Comparison of representation**
-Train two models were we compare all-atom sequence vs. AA sequence
+**Comparison of representation using self-trained models**
+Train two models were we compare all-atom sequence vs. AA sequence. 
+
+**Comparison of representation using pre-trained models**
+Train an all-atom model and compare to existing models that are trained only on AA sequences. These pre-trained models can be either language models or diffusion models
+
+**Improvements using additional protein information - MSA**
+See in what way and which additional protein information (3Di, PLM, MSA) can improve the generation of proteins
+
+**Improvements using additional protein information - PLM**
+See in what way we can incorporate PL information and compare if the results show improvements over the vanilla model
+
+**Improvements using additional protein information - 3Di**
+See in what way we can incorporate 3Di information and compare if the results show improvements over the vanilla model
+
+**How well can we do inpainting**
+Is our model able to do inpainting besides *de novo* generation
+
+**Guide or condition the protein generation**
+Which type and how should we guide the protein generation process
+
+**Finetune the model on unnatural protein generation**
+After finding the best model we should finetune to be able to do unnatural protein generation
 
 **Testing multiple subsets of protein length**
 Train multiple models were we compare how well the architecture can handle different protein lengths. Note that each model should have the same amount of training data for a fair comparison. We can compare on protein validity, atom distribution, structural validity and diversity
