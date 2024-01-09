@@ -18,19 +18,25 @@ Different experimental variables
 - Apply Gaussian noise to token-vector embeddings
 **Sequence representations**
 - All-atom representation
-- Functional groups (atom motifs)
+- Functional groups or atom motifs (e.g. $-OH$, $-NH_2$ or $-CH_3$ ) 
 - Amino acids
-- Amino acids motifs
+- Amino acids motifs (e.g. $\alpha$-Helices, $\beta$-plate )
 **Include additional information**
 - 3Di tokens
-- PML features
-- MLA
+	- An encoded sequence that describes the structure of a protein per amino acid
+- Protein Language Model (PML) features
+	- PMLs are trained to extract meaningful features from a proteins sequence 
+- Multiple Sequence Alignment (MSA)
+	- Since proteins can be similar due to evolution we can use (structural) information from proteins whose sequences align
 **Objectives**
 - De novo generation
+	- Generate completely new proteins which have not been found in nature (yet)
 - Inpainting
+	- Remove a part of the protein and generate a new replacement part 
 - Guided or non-guided
-	- Classifier, Gradient or Gradient-Free 
+	- A diffusion model can be guided to a certain sub-distribution during sampling. This can  be done using the following methods: Classifier, Gradient or Gradient-Free 
 - Finetune on unnatural amino acids
+	- After the all-atom model is created and trained we can fine-tune the model further on unnatural amino acids
 ### Research question
 ### Experiments
 

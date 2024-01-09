@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9a472ddb505b3882",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology related/Proteins.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
+                "file": "Biology related/Proteins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
+                "file": "Biology related/Proteins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Master Thesis/MSc Thesis Scenarios for All-atom representation.md"
+                "file": "Biology related/Proteins.md"
               }
             }
           }
@@ -160,10 +172,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "09ff2ca87863d38a",
+  "active": "9a472ddb505b3882",
   "lastOpenFiles": [
-    "Untitled.md",
     "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
+    "Biology related/Proteins.md",
+    "Untitled.md",
     "Master Thesis/Papers/pdfs/N. Gruver, et al. (2023) - Protein Design with Guided Discrete Diffusion.pdf",
     "ML related/Language Models/Language Models for protein design.md",
     "Master Thesis/Ideas.md",
@@ -192,7 +205,6 @@
     "Master Thesis/Papers/Summary - Atom-by-atom protein generation and beyond with language models.md",
     "Literature Survey/Papers/Paper Notes on Diffusion for Protein Prediction.md",
     "Biology related/Why or Why not synthetic amino acids.md",
-    "Biology related/Proteins.md",
     "Biology related/Amino acids.md",
     "ML related/Diffusion Models/Diffusion Model.md",
     "ML related/Diffusion Models/Stochastic Differential Equations.md",
