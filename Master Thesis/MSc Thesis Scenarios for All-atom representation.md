@@ -9,34 +9,34 @@ There are two ways you can include the additional 3Di representation on top of t
 ***
 Different experiments where we fix all but one variable and explore the results.
 
-Different experimental variables
-**Architecture**
+### Different experimental variables
+#### Architecture
 - Transformer
 - MLP
 - UNET
 - (Optional) newer models like Hyena and MAMBA
-**Discrete diffusion types**
+#### Discrete diffusion types
 - Apply categorical noise directly to sequence (use a masking technique)
 - Apply Gaussian noise to token-vector embeddings
-**Sequence representations**
+#### Sequence representations
 - All-atom representation using SMILES or SELFIES
 	- Maybe use the representation which has on average a shorter length?
 	- Original paper[^1] uses SELFIES
 - Functional groups or atom motifs (e.g. $-OH$, $-NH_2$ or $-CH_3$ ) 
 - Amino acids
 - Amino acids motifs (e.g. $\alpha$-Helices or $\beta$-plate )
-**Include additional information**
+#### Inclusion of additional information
 - 3Di tokens
 	- An encoded sequence that describes the structure of a protein per amino acid
 - Protein Language Model (PML) features
 	- PMLs are trained to extract meaningful features from a proteins sequence 
 - Multiple Sequence Alignment (MSA)
 	- Since proteins can be similar due to evolution we can use (structural) information from proteins whose sequences align
-**Augmentation on all atom representation**
+#### Augmentation on all atom representation
 - No augmentation so we use only SMILES canonical ordering
 - Unrestricted randomized SMILES ordering
 - Restricted randomized SMILES ordering **restricted has already been found to be the best[^2]**
-**Objectives**
+#### Objectives
 - De novo generation
 	- Generate completely new proteins which have not been found in nature (yet)
 - Inpainting
@@ -45,7 +45,7 @@ Different experimental variables
 	- A diffusion model can be guided to a certain sub-distribution during sampling. This can  be done using the following methods: Classifier, Gradient or Gradient-Free 
 - Finetune on unnatural amino acids
 	- After the all-atom model is created and trained we can fine-tune the model further on unnatural amino acids
-**What to compare**
+#### Metrics to compare
 - Training time
 - Loss on training, validation and test set
 - Protein validity
@@ -56,7 +56,7 @@ Different experimental variables
 	- Check if the generated proteins are structurally valid using AF2
 - Diversity
 	- How diverse or similar are the generated proteins compared to the training data 
-**Datasets**
+#### Datasets
 - Protein Data Bank (PDB)
 - …
 
@@ -74,26 +74,26 @@ Train two models were we compare all-atom sequence vs. AA sequence.
 **Comparison of representation using pre-trained models**
 Train an all-atom model and compare to existing models that are trained only on AA sequences. These pre-trained models can be either language models or diffusion models
 
-**Improvements using additional protein information - MSA**
-See in what way and which additional protein information (3Di, PLM, MSA) can improve the generation of proteins
-
-**Improvements using additional protein information - PLM**
-See in what way we can incorporate PL information and compare if the results show improvements over the vanilla model
+**Testing multiple subsets of protein length**
+Train multiple models were we compare how well the architecture can handle different protein lengths. Note that each model should have the same amount of training data for a fair comparison. We can compare on protein validity, atom distribution, structural validity and diversity
 
 **Improvements using additional protein information - 3Di**
 See in what way we can incorporate 3Di information and compare if the results show improvements over the vanilla model
 
-**How well can we do inpainting**
-Is our model able to do inpainting besides *de novo* generation
-
-**Guide or condition the protein generation**
-Which type and how should we guide the protein generation process
-
 **Finetune the model on unnatural protein generation**
 After finding the best model we should finetune to be able to do unnatural protein generation
 
-**Testing multiple subsets of protein length**
-Train multiple models were we compare how well the architecture can handle different protein lengths. Note that each model should have the same amount of training data for a fair comparison. We can compare on protein validity, atom distribution, structural validity and diversity
+**How well can we do inpainting**
+Is our model able to do inpainting besides *de novo* generation
+
+**Improvements using additional protein information - MSA**
+See in what way we can incorporate MSA information and compare if the results show improvements over the vanilla model
+
+**Improvements using additional protein information - PLM**
+See in what way we can incorporate PLM information and compare if the results show improvements over the vanilla model
+
+**Guide or condition the protein generation**
+Which type and how should we guide the protein generation process
 
 **To augment or not to augment?**
 Train two models where one is trained with data augmentation using restricted randomized SMILES ordering and the other is not. We compare on protein validity, atom distribution, structural validity and diversity. 
@@ -115,12 +115,13 @@ There exists several possibilities to represent a protein both structurally and 
 - Functional groups (atom motifs)
 - Amino acids
 - Amino acids motifs
+
 **Structure representations**
 - Atom-specific coordinates
 - $C_\alpha$ placements with the 6 rotational angles
 - Only $C_\alpha$ placement
 
-
+# Footnotes
 
 [^1]: [[D. Flam-Sheperd et al. (2023) - Atom-by-atom protein generatio and beyond with language models.pdf]]
 [^2]: [[J. Arus-Pous, et al (2019) - Randomized SMILES strings improve the quality of molecular generative models.pdf]]

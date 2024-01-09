@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -45,24 +45,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "723d120ba35b260e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "09ff2ca87863d38a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Master Thesis/Papers/Summary - Atom-by-atom protein generation and beyond with language models.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
