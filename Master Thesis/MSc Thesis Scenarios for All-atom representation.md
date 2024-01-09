@@ -19,7 +19,9 @@ Different experimental variables
 - Apply categorical noise directly to sequence (use a masking technique)
 - Apply Gaussian noise to token-vector embeddings
 **Sequence representations**
-- All-atom representation
+- All-atom representation using SMILES or SELFIES
+	- Maybe use the representation which has on average a shorter length?
+	- Original paper[^1] uses SELFIES
 - Functional groups or atom motifs (e.g. $-OH$, $-NH_2$ or $-CH_3$ ) 
 - Amino acids
 - Amino acids motifs (e.g. $\alpha$-Helices or $\beta$-plate )
@@ -30,6 +32,10 @@ Different experimental variables
 	- PMLs are trained to extract meaningful features from a proteins sequence 
 - Multiple Sequence Alignment (MSA)
 	- Since proteins can be similar due to evolution we can use (structural) information from proteins whose sequences align
+**Augmentation on all atom representation**
+- No augmentation so we use only SMILES canonical ordering
+- Unrestricted randomized SMILES ordering
+- Restricted randomized SMILES ordering **restricted has already been found to be the best**
 **Objectives**
 - De novo generation
 	- Generate completely new proteins which have not been found in nature (yet)
@@ -41,6 +47,10 @@ Different experimental variables
 	- After the all-atom model is created and trained we can fine-tune the model further on unnatural amino acids
 ### Research question
 ### Experiments
+**Testing multiple stages of protein length**
+Train multiple models were we compare how well the architecture can handle different protein lengths. 
+
+****
 
 # Scenario 3
 *Explore different model architectures to find which works best with long sequence lengths (i.e. mamba, hyena, etc.)*
