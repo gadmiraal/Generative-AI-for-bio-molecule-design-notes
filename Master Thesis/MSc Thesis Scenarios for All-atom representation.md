@@ -58,12 +58,13 @@ Different experiments where we fix all but one variable and explore the results.
 	- How diverse or similar are the generated proteins compared to the training data 
 #### Datasets
 - Protein Data Bank (PDB)
-- …
+- UniProt
+- Swiss-Prot
 
 ### Research question
-What is the performance and how does it compare to other models when a diffusion model for generative protein design is trained on proteins represented using the SELFIES representation 
-
-
+`What is the [EVALUATION] performance and how does it compare to other models [MODELS] when a [DIFFUSION TYPE] & [ARCHITECTURE] diffusion model for generative protein design is trained on [DATASET] proteins represented using the SELFIES representation using`
+`	•[OBJECTIVE]?
+`	•[ADDITIONAL INFO]
 ### Experiments
 **Which architecture to use for all atom representation**
 Train different diffusion models with different architectures and see which is the best. We can compare on training time and loss 
@@ -78,7 +79,7 @@ Train two models were we compare all-atom sequence vs. AA sequence.
 Train an all-atom model and compare to existing models that are trained only on AA sequences. These pre-trained models can be either language models or diffusion models
 
 **Testing multiple subsets of protein length**
-Train multiple models were we compare how well the architecture can handle different protein lengths. Note that each model should have the same amount of training data for a fair comparison. We can compare on protein validity, atom distribution, structural validity and diversity
+Train one model and compare during testing how well the architecture can handle different protein lengths. Note that each model should have the same amount of test data for a fair comparison? We can compare on protein validity, atom distribution, structural validity and diversity
 
 **Improvements using additional protein information - 3Di**
 See in what way we can incorporate 3Di information and compare if the results show improvements over the vanilla model
@@ -102,6 +103,10 @@ Which type and how should we guide the protein generation process
 Train two models where one is trained with data augmentation using restricted randomized SMILES ordering and the other is not. We compare on protein validity, atom distribution, structural validity and diversity. 
 
 
+### Data analysis
+**What is the distribution of protein length?**
+**What is the percentage of structures that is available from PDB when using UniProt/Swiss-Prot?**
+**What is the distribution of amino acids and how does it compare to other datasets in other research?**
 # Scenario 3
 *Explore different model architectures to find which works best with long sequence lengths (i.e. mamba, hyena, etc.)*
 ***
