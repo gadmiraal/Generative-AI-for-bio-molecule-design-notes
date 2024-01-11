@@ -61,6 +61,9 @@ Different experiments where we fix all but one variable and explore the results.
 - …
 
 ### Research question
+What is the performance and how does it compare to other models when a diffusion model for generative protein design is trained on proteins represented using the SELFIES representation 
+
+
 ### Experiments
 **Which architecture to use for all atom representation**
 Train different diffusion models with different architectures and see which is the best. We can compare on training time and loss 
@@ -118,8 +121,8 @@ There exists several possibilities to represent a protein both structurally and 
 
 **Structure representations**
 - Atom-specific coordinates
-- $C_\alpha$ placements with the 6 rotational angles
 - Only $C_\alpha$ placement
+- $C_\alpha$ placements with the 6 rotational angles
 
 # Footnotes
 
