@@ -18,6 +18,7 @@ Different experiments where we fix all but one variable and explore the results.
 #### Discrete diffusion types
 - Apply categorical noise directly to sequence (use a masking technique)
 - Apply Gaussian noise to token-vector embeddings
+- Apply multinomial one hot distribution for amino acid type
 #### Sequence representations
 - All-atom representation using SMILES or SELFIES
 	- Maybe use the representation which has on average a shorter length?
