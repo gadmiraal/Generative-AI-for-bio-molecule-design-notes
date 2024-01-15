@@ -63,9 +63,11 @@ Different experiments where we fix all but one variable and explore the results.
 - Swiss-Prot
 
 ### Research question
-`What is the [EVALUATION] performance and how does it compare to other models [MODELS] when a [DIFFUSION TYPE] & [ARCHITECTURE] diffusion model for generative protein design is trained on [DATASET] proteins represented using the SELFIES representation using`
-`	•[OBJECTIVE]?
-`	•[ADDITIONAL INFO]
+What is the `[EVALUATION]` performance of training on an all atom sequence representation using SMILES and how does it compare to other representations such as amino acids sequence when using a `[DIFFUSION TYPE] & [ARCHITECTURE]` diffusion model for `[OBJECTIVE]` generative protein design.
+#### Sub questions
+- Does the performance of the model increase significantly when using the data augmentation method as specified by J. Arus-Pous, et al. (2019)[^2]
+- Does the performance of the model increase significantly when additional structural information in the form of a 3Di sequence as specified by M. van Kempen et al. (2022)[^3] is combined with the protein sequence and diffused? Or when it is only used through attention heads
+
 ### Experiments
 **Which architecture to use for all atom representation**
 Train different diffusion models with different architectures and see which is the best. We can compare on training time and loss 
@@ -134,3 +136,4 @@ There exists several possibilities to represent a protein both structurally and 
 
 [^1]: [[D. Flam-Sheperd et al. (2023) - Atom-by-atom protein generatio and beyond with language models.pdf]]
 [^2]: [[J. Arus-Pous, et al (2019) - Randomized SMILES strings improve the quality of molecular generative models.pdf]]
+[^3]: [[M. van Kempen et al. (2022) - Fast and accurate protein structure search with Foldseek.pdf]]
