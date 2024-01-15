@@ -63,13 +63,13 @@ Different experiments where we fix all but one variable and explore the results.
 - Swiss-Prot
 
 ### Research question
-**What is the** `[EVALUATION]` **performance of training on an all atom sequence representation using SMILES and how does it compare to other representations such as amino acids sequence when using a** `[DIFFUSION TYPE] & [ARCHITECTURE]` **diffusion model for** `[OBJECTIVE]` **generative protein design.**
+**What is the** `[EVALUATION]` **performance of training on an all atom sequence representation using SMILES and how does it compare to other representations such as amino acids sequence when using a** `[DIFFUSION TYPE] & [ARCHITECTURE]` **diffusion model for** *de novo* **generative protein design.**
 #### Sub questions
 - Does the performance of the model increase significantly when using the data augmentation method as specified by J. Arus-Pous, et al. (2019)[^2].
 - Does the performance of the model trained on the all atom representation increase significantly when additional structural information in the form of a 3Di sequence[^3] is combined with the protein sequence and diffused? Or when the 3Di sequence is only provided to the model through attention heads.
 - Does the model trained on the all atom representation have the same performance when tested on different subsets of proteins lengths.
 - Is the model trained on the all atom representation when fine-tuned on protein sequences with unnatural amino acids able to correctly learn the training distribution.
-- 
+- What is the performance of the model trained on the all atom representation when performing inpainting tasks
 
 ### Experiments
 **Which architecture to use for all atom representation**
@@ -107,12 +107,10 @@ Which type and how should we guide the protein generation process
 
 **To augment or not to augment?**
 Train two models where one is trained with data augmentation using restricted randomized SMILES ordering and the other is not. We compare on protein validity, atom distribution, structural validity and diversity. 
-
-
 ### Data analysis
-**What is the distribution of protein length?**
-**What is the percentage of structures that is available from PDB when using UniProt/Swiss-Prot?**
-**What is the distribution of amino acids and how does it compare to other datasets in other research?**
+- What is the distribution of protein length?
+- What is the percentage of structures that is available from PDB when using UniProt/Swiss-Prot?
+- What is the distribution of amino acids and how does it compare to other datasets in other research?
 # Scenario 3
 *Explore different model architectures to find which works best with long sequence lengths (i.e. mamba, hyena, etc.)*
 ***
