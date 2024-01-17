@@ -30,18 +30,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9a472ddb505b3882",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology related/Proteins.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -174,6 +162,8 @@
   },
   "active": "b43857f695fd68c2",
   "lastOpenFiles": [
+    "Biology related/Proteins.md",
+    "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
     "Master Thesis/Papers/pdfs/L. Moffat et al. (2022) - Design in the DARK Learning Deep Generative Models for De Novo Protein Design.pdf",
     "Master Thesis/Weekly updates/pptAF9E.tmp",
     "Master Thesis/Weekly updates/pptB563.tmp",
@@ -184,11 +174,8 @@
     "Master Thesis/Weekly updates/Weekly_Update_5-6 - Copy.pptx",
     "Master Thesis/Weekly updates/Weekly_Update_5-6.pptx",
     "Master Thesis/Weekly updates/Weekly_Update_5.pptx",
-    "Master Thesis/Weekly updates/~$Weekly_Update_5.pptx",
     "Master Thesis/Papers/Summary - Atom-by-atom protein generation and beyond with language models.md",
     "Master Thesis/Ideas.md",
-    "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
-    "Biology related/Proteins.md",
     "Untitled.md",
     "ML related/Language Models/Language Models for protein design.md",
     "Biology related/Atom-by-atom.md",
