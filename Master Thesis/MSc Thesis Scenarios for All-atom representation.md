@@ -63,7 +63,7 @@ Different experiments where we fix all but one variable and explore the results.
 - Swiss-Prot
 
 ### Research question
-**What is the** `[EVALUATION]` **performance of training on an all atom sequence representation using SMILES and how does it compare to other representations such as amino acids sequence when using a** `[DIFFUSION TYPE] & [ARCHITECTURE]` **diffusion model for** *de novo* **generative protein design.**
+**What is the** `[EVALUATION]` **performance of training on an all atom sequence representation using SMILES and how does it compare to other representations such as amino acids sequence  when using a** `[DIFFUSION TYPE] & [ARCHITECTURE]` **diffusion model for** *de novo* **generative protein design.**
 #### Sub questions
 - Does the performance of the model increase significantly when using the data augmentation method as specified by J. Arus-Pous, et al. (2019)[^2].
 - Does the performance of the model trained on the all atom representation increase significantly when additional structural information in the form of a 3Di sequence[^3] is combined with the protein sequence and diffused? Or when the 3Di sequence is only provided to the model through attention heads.
