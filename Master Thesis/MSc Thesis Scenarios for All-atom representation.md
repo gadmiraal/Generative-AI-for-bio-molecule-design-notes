@@ -19,7 +19,7 @@ Different experiments where we fix all but one variable and explore the results.
 - A hypothesis: all-atom sequences might result in better sequence-to-structure predictions
 - 
 
-Use a transformer
+Use a transformer which can translate between masked/noised sequence and the protein sequence
 Use masking/categorical noise
 ### Different experimental variables
 #### Architecture
@@ -40,7 +40,7 @@ Use masking/categorical noise
 	- Original paper[^1] uses SELFIES
 - Functional groups or atom motifs (e.g. $-OH$, $-NH_2$ or $-CH_3$ ) 
 - Amino acids
-- Amino acids motifs (e.g. $\alpha$-Helices or $\beta$-plate )
+- Amino acids motifs 
 #### Inclusion of additional information
 - 3Di tokens
 	- An encoded sequence that describes the structure of a protein per amino acid
