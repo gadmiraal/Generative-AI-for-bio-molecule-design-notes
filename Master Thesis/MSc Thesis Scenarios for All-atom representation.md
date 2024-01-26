@@ -19,6 +19,9 @@ Different experiments where we fix all but one variable and explore the results.
 - Apply categorical noise directly to sequence (use a masking technique)
 - Apply Gaussian noise to token-vector embeddings
 - Apply multinomial one hot distribution for amino acid type
+
+![[Discrete diffusion.png]]
+*Figure taken from [[N. Gruver, et al. (2023) - Protein Design with Guided Discrete Diffusion.pdf]]*
 #### Sequence representations
 - All-atom representation using SMILES or SELFIES
 	- Maybe use the representation which has on average a shorter length?
@@ -111,6 +114,7 @@ Train two models where one is trained with data augmentation using restricted ra
 - What is the distribution of protein length?
 - What is the percentage of structures that is available from PDB when using UniProt/Swiss-Prot?
 - What is the distribution of amino acids and how does it compare to other datasets in other research?
+- how large on average do SMILES get compared to a
 # Scenario 3
 *Explore different model architectures to find which works best with long sequence lengths (i.e. mamba, hyena, etc.)*
 ***

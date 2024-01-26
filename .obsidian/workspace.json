@@ -11,23 +11,9 @@
             "id": "edf5a58de26a6b41",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Master Thesis/Ideas.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b43857f695fd68c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
-                "mode": "source",
-                "source": false
+                "file": "Discrete diffusion.png"
               }
             }
           },
@@ -37,14 +23,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "Master Thesis/MSc Thesis Scenarios for All-atom representation.md"
               }
             }
           }
@@ -174,15 +160,24 @@
   },
   "active": "fcdaf78f1399c204",
   "lastOpenFiles": [
+    "Master Thesis/Weekly updates/ppt1A89.tmp",
+    "Untitled 1.md",
+    "Discrete diffusion.png",
+    "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
+    "Master Thesis/Weekly updates/~$Weekly_Update_7.pptx",
+    "Master Thesis/Weekly updates/~$Weekly_Update_8.pptx",
+    "ML related/Language Models/Language Models for protein design.md",
+    "Master Thesis/Weekly updates/~$Weekly_Update_5-6.pptx",
+    "ML related/Language Models/Language models.md",
+    "Biology related/Atom-by-atom.md",
+    "Master Thesis/Weekly updates/~$Weekly_Update_9.pptx",
+    "Master Thesis/Weekly updates/Weekly_Update_9.pptx",
+    "Master Thesis/Weekly updates/Weekly_Update_8 - Copy.pptx",
+    "Master Thesis/Ideas.md",
     "Master Thesis/Weekly updates/pptA4D2.tmp",
     "Master Thesis/Weekly updates/pptA379.tmp",
     "Master Thesis/Weekly updates/pptA01D.tmp",
-    "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
-    "Master Thesis/Weekly updates/~$Weekly_Update_7.pptx",
-    "Untitled 1.md",
-    "Master Thesis/Weekly updates/~$Weekly_Update_8.pptx",
     "Master Thesis/Weekly updates/Weekly_Update_8.pptx",
-    "Master Thesis/Weekly updates/Weekly_Update_7 - Copy.pptx",
     "Untitled 6.png",
     "Untitled 5.png",
     "Untitled 4.png",
@@ -190,15 +185,8 @@
     "Untitled 2.png",
     "Untitled 1.png",
     "Biology related/Proteins.md",
-    "Master Thesis/Papers/pdfs/L. Moffat et al. (2022) - Design in the DARK Learning Deep Generative Models for De Novo Protein Design.pdf",
-    "Master Thesis/Weekly updates/pptAF9E.tmp",
-    "Master Thesis/Weekly updates/pptB563.tmp",
-    "Master Thesis/Weekly updates/~$Weekly_Update_5-6.pptx",
     "Master Thesis/Papers/Summary - Atom-by-atom protein generation and beyond with language models.md",
-    "Master Thesis/Ideas.md",
     "Untitled.md",
-    "ML related/Language Models/Language Models for protein design.md",
-    "Biology related/Atom-by-atom.md",
     "ML related/Data augmentation.md",
     "ML related/Scenarios/Scenario 2.md",
     "ML related/Scenarios/Scenario 4.md",
@@ -206,7 +194,6 @@
     "ML related/Scenarios/Scenario 1.md",
     "To-do.md",
     "Literature Survey/Papers/Interesting Papers Literature Survey.md",
-    "ML related/Language Models/Language models.md",
     "README.md",
     "ML related/Diffusion Models/Diffusion Models for Protein Design.md",
     "Wrapped Normal Diffusion Process.md",
@@ -219,7 +206,6 @@
     "Literature Survey/Resources/Example-of-a-protein-structure-pair-between-ligand-bound-and-unbound-states-a-A.png",
     "Master Thesis/Resources/Pasted image 20231122142000.png",
     "Literature Survey/Resources/diffusion_types-1.png",
-    "Literature Survey/Resources/diffusion_types_2-1.png",
     "Untitled.canvas",
     "Generative AI for (bio)molecule design/Literature Survey/Untitled.canvas"
   ]
