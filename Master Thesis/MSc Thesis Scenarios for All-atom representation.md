@@ -14,7 +14,8 @@ Different experiments where we fix all but one variable and explore the results.
 - Autoregressive models currently dominate the field of language modelling but they rely on a left-to-right or right-to-left direction of text which is based on the temporal nature of natural language. Protein sequence do not have this temporal nature thus it might be better to look at approaches that can generate sequences without this directional approach like diffusion models
 - 
 
-
+Use a transformer
+Use masking/categorical noise
 ### Different experimental variables
 #### Architecture
 - Transformer
