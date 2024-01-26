@@ -12,6 +12,11 @@ Different experiments where we fix all but one variable and explore the results.
 ### Why Discrete Diffusion
 - They are a hot-topic and have shown great progress in a lot of fields which sparks my interest and curiosity to work with them
 - Autoregressive models currently dominate the field of language modelling but they rely on a left-to-right or right-to-left direction of text which is based on the temporal nature of natural language. Protein sequence do not have this temporal nature thus it might be better to look at approaches that can generate sequences without this directional approach like diffusion models
+
+### Applications
+- Can be used to create unnatural amino acids
+	- Create proteins with binding sites that we know can bind to certain materials or drugs which maybe could not have been done using conventional amino acids
+- A hypothesis: all-atom sequences might result in better sequence-to-structure predictions
 - 
 
 Use a transformer
