@@ -21,6 +21,8 @@ Different experiments where we fix all but one variable and explore the results.
 
 Use a transformer which can translate between masked/noised sequence and the protein sequence
 Use masking/categorical noise
+
+transformer translates a partially masked sentence to a normal sentence?
 ### Different experimental variables
 #### Architecture
 - Transformer
