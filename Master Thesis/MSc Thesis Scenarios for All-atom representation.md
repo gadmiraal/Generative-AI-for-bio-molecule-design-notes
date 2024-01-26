@@ -10,8 +10,9 @@ There are two ways you can include the additional 3Di representation on top of t
 Different experiments where we fix all but one variable and explore the results.
 
 ### Why Discrete Diffusion
-- They are cool
-- Autoregressive models currently dominate the field of language modelling but they rely on a left-to-right or right-to-left direction of text which is based on the temoral nature of natural language. Protein sequence do not have this temporal nature thus it might be better to look at appr 
+- They are a hot-topic and have shown great progress in a lot of fields which sparks my interest and curiosity to work with them
+- Autoregressive models currently dominate the field of language modelling but they rely on a left-to-right or right-to-left direction of text which is based on the temporal nature of natural language. Protein sequence do not have this temporal nature thus it might be better to look at approaches that can generate sequences without this directional approach like diffusion models
+- 
 
 
 ### Different experimental variables
