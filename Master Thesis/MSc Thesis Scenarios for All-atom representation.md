@@ -1,4 +1,4 @@
-# Scenario 1
+ # Scenario 1
 *Explore the use of a GPT-like model in a language modelling setting with a combination of the all-atom representation & 3Di structure representation. Compare these results with the original all-atom paper[^1] and other similar works* 
 ***
 There are two ways you can include the additional 3Di representation on top of the all-atom representation:
@@ -8,6 +8,11 @@ There are two ways you can include the additional 3Di representation on top of t
 *Explore how the all-atom representation can be used in a diffusion setting and explore different diffusion setups*
 ***
 Different experiments where we fix all but one variable and explore the results.
+
+### Why Discrete Diffusion
+- They are cool
+- Autoregressive models currently dominate the field of language modelling but they rely on a left-to-right or right-to-left direction of text which is based on the temoral nature of natural language. Protein sequence do not have this temporal nature thus it might be better to look at appr 
+
 
 ### Different experimental variables
 #### Architecture
