@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "Master Thesis/MSc Thesis Scenarios for All-atom representation.md"
               }
             }
           }
@@ -160,6 +160,7 @@
   },
   "active": "fcdaf78f1399c204",
   "lastOpenFiles": [
+    "Untitled 1.md",
     "Untitled.md",
     "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
     "Master Thesis/Resources/Plannig.xlsx",
@@ -168,7 +169,6 @@
     "Master Thesis/Weekly updates/~$Weekly_Update_9.pptx",
     "Master Thesis/Weekly updates/~$Weekly_Update_7.pptx",
     "Master Thesis/Weekly updates/ppt1A89.tmp",
-    "Untitled 1.md",
     "Discrete diffusion.png",
     "Master Thesis/Weekly updates/~$Weekly_Update_8.pptx",
     "ML related/Language Models/Language Models for protein design.md",
