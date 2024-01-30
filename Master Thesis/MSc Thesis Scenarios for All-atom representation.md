@@ -73,7 +73,7 @@ transformer translates a partially masked sentence to a normal sentence?
 	- How well do we capture the training atom distribution with the generated proteins
 - Structural validity
 	- Check if the generated proteins are structurally valid using AF2
-- Classification
+- Classification 
 - Diversity
 	- How diverse or similar are the generated proteins compared to the training data 
 #### Datasets
