@@ -40,7 +40,8 @@ transformer translates a partially masked sentence to a normal sentence?
 - All-atom representation using SMILES or SELFIES
 	- Maybe use the representation which has on average a shorter length?
 	- Original paper[^1] uses SELFIES
-- Functional groups or atom motifs (e.g. $-OH$, $-NH_2$ or $-CH_3$ ) 
+- Functional groups or atom motifs (e.g. $-OH$, $-NH_2$ or $-CH_3$ ) [C][=C][C][=C][C][=C][Ring1][Branch1_2]
+
 - Amino acids
 - Amino acids motifs 
 #### Inclusion of additional information
