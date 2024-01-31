@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
+                "file": "ML related/Language Models/Language Models for protein design.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
+                "file": "ML related/Language Models/Language Models for protein design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
+                "file": "ML related/Language Models/Language Models for protein design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Master Thesis/MSc Thesis Scenarios for All-atom representation.md"
+                "file": "ML related/Language Models/Language Models for protein design.md"
               }
             }
           }
@@ -160,12 +160,13 @@
   },
   "active": "fcdaf78f1399c204",
   "lastOpenFiles": [
+    "ML related/Language Models/Language models.md",
+    "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
     "Master Thesis/Resources/~$Plannig.xlsx",
     "Master Thesis/Resources/4AD11610",
     "Master Thesis/Resources/diffusion_process.png",
     "Untitled 1.md",
     "Untitled.md",
-    "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
     "Master Thesis/Resources/Plannig.xlsx",
     "Master Thesis/Resources/DA794100",
     "Master Thesis/Weekly updates/~$Weekly_Update_9.pptx",
@@ -175,10 +176,8 @@
     "Master Thesis/Weekly updates/~$Weekly_Update_8.pptx",
     "ML related/Language Models/Language Models for protein design.md",
     "Master Thesis/Weekly updates/~$Weekly_Update_5-6.pptx",
-    "ML related/Language Models/Language models.md",
     "Biology related/Atom-by-atom.md",
     "Master Thesis/Weekly updates/Weekly_Update_9.pptx",
-    "Master Thesis/Weekly updates/Weekly_Update_8 - Copy.pptx",
     "Master Thesis/Ideas.md",
     "Untitled 6.png",
     "Untitled 5.png",
