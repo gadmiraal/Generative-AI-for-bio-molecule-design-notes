@@ -23,8 +23,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML related/Language Models/Language Models for protein design.md",
-                "mode": "source",
+                "file": "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML related/Language Models/Language Models for protein design.md",
+                "file": "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML related/Language Models/Language Models for protein design.md",
+                "file": "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML related/Language Models/Language Models for protein design.md"
+                "file": "Master Thesis/MSc Thesis Scenarios for All-atom representation.md"
               }
             }
           }
@@ -160,6 +160,7 @@
   },
   "active": "fcdaf78f1399c204",
   "lastOpenFiles": [
+    "ML related/Language Models/Language Models for protein design.md",
     "ML related/Language Models/Language models.md",
     "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
     "Master Thesis/Resources/~$Plannig.xlsx",
@@ -174,7 +175,6 @@
     "Master Thesis/Weekly updates/ppt1A89.tmp",
     "Discrete diffusion.png",
     "Master Thesis/Weekly updates/~$Weekly_Update_8.pptx",
-    "ML related/Language Models/Language Models for protein design.md",
     "Master Thesis/Weekly updates/~$Weekly_Update_5-6.pptx",
     "Biology related/Atom-by-atom.md",
     "Master Thesis/Weekly updates/Weekly_Update_9.pptx",
