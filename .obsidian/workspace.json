@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
+                "file": "ML related/Language Models/Language Models for protein design.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
+                "file": "ML related/Language Models/Language Models for protein design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
+                "file": "ML related/Language Models/Language Models for protein design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Master Thesis/MSc Thesis Scenarios for All-atom representation.md"
+                "file": "ML related/Language Models/Language Models for protein design.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "68b2ef851586d4ea",
   "lastOpenFiles": [
-    "ML related/Language Models/Language Models for protein design.md",
     "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
+    "ML related/Language Models/Language Models for protein design.md",
     "Discrete diffusion.png",
     "Master Thesis/Papers/pdfs/G. Valentini et al. (2023) - The promises of large language models for protein design and modeling.pdf",
     "Master Thesis/Papers/pdfs/D. Flam-Shepherd et al. (2022) - Language models can learn complex molecular.pdf",
