@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML related/Language Models/Language Models for protein design.md",
+                "file": "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML related/Language Models/Language Models for protein design.md",
+                "file": "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML related/Language Models/Language Models for protein design.md",
+                "file": "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML related/Language Models/Language Models for protein design.md"
+                "file": "Master Thesis/MSc Thesis Scenarios for All-atom representation.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "68b2ef851586d4ea",
   "lastOpenFiles": [
+    "ML related/Language Models/Language Models for protein design.md",
     "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
     "Discrete diffusion.png",
     "Master Thesis/Papers/pdfs/G. Valentini et al. (2023) - The promises of large language models for protein design and modeling.pdf",
@@ -160,7 +161,6 @@
     "ML related/Diffusion Models/Diffusion Models for Protein Design.md",
     "ML related/Diffusion Models/Diffusion Model.md",
     "ML related/Diffusion Models/Diffusion based Inpainting.md",
-    "ML related/Language Models/Language Models for protein design.md",
     "ML related/Language Models/Language models.md",
     "Master Thesis/Resources/~$Plannig.xlsx",
     "Master Thesis/Resources/4AD11610",
