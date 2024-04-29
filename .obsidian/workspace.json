@@ -43,9 +43,11 @@
             "id": "44ae924883411b09",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "ML related/Diffusion Models/Guidance in Diffusion Models.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -116,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML related/Language Models/Language Models for protein design.md",
+                "file": "ML related/Diffusion Models/Guidance in Diffusion Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML related/Language Models/Language Models for protein design.md",
+                "file": "ML related/Diffusion Models/Guidance in Diffusion Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML related/Language Models/Language Models for protein design.md"
+                "file": "ML related/Diffusion Models/Guidance in Diffusion Models.md"
               }
             }
           }
@@ -180,18 +182,18 @@
   },
   "active": "44ae924883411b09",
   "lastOpenFiles": [
+    "ML related/Diffusion Models/Diffusion based Inpainting.md",
+    "ML related/Diffusion Models/Diffusion Model.md",
+    "ML related/Diffusion Models/Score-Based Generative Models.md",
+    "ML related/Diffusion Models/Stochastic Differential Equations.md",
+    "Discrete diffusion.png",
     "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
     "ML related/Language Models/Language Models for protein design.md",
-    "Discrete diffusion.png",
     "Master Thesis/Papers/pdfs/G. Valentini et al. (2023) - The promises of large language models for protein design and modeling.pdf",
     "Master Thesis/Papers/pdfs/D. Flam-Shepherd et al. (2022) - Language models can learn complex molecular.pdf",
-    "ML related/Diffusion Models/Stochastic Differential Equations.md",
-    "ML related/Diffusion Models/Score-Based Generative Models.md",
     "ML related/Diffusion Models/Guidance in Diffusion Models.md",
     "ML related/Diffusion Models/Equivariant Neural Network Models.md",
     "ML related/Diffusion Models/Diffusion Models for Protein Design.md",
-    "ML related/Diffusion Models/Diffusion Model.md",
-    "ML related/Diffusion Models/Diffusion based Inpainting.md",
     "ML related/Language Models/Language models.md",
     "Master Thesis/Resources/~$Plannig.xlsx",
     "Master Thesis/Resources/4AD11610",
