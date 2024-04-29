@@ -38,9 +38,19 @@
                 "currentVersion": "1.5.11"
               }
             }
+          },
+          {
+            "id": "44ae924883411b09",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -168,7 +178,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "88fa4ca3cc18ef5d",
+  "active": "44ae924883411b09",
   "lastOpenFiles": [
     "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
     "ML related/Language Models/Language Models for protein design.md",
