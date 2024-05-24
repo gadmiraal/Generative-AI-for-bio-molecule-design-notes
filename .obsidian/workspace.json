@@ -25,18 +25,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology related/Atom-by-atom.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0bcecb3b92bea49d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Biology related/SMILES vs. SELFIES.md",
                 "mode": "source",
                 "source": false
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,11 +160,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0bcecb3b92bea49d",
+  "active": "88fa4ca3cc18ef5d",
   "lastOpenFiles": [
-    "Biology related/Amino acids.md",
-    "Biology related/SMILES vs. SELFIES.md",
     "Biology related/Atom-by-atom.md",
+    "Untitled.canvas",
+    "Biology related/SMILES vs. SELFIES.md",
+    "Biology related/Amino acids.md",
     "SMILES_figure.md",
     "Untitled.md",
     "Untitled 1.md",
@@ -217,10 +206,8 @@
     "ML related/Scenarios/Scenario 4.md",
     "ML related/Scenarios/Scenario 3.md",
     "ML related/Scenarios/Scenario 1.md",
-    "To-do.md",
     "Literature Survey/Resources/Example-of-a-protein-structure-pair-between-ligand-bound-and-unbound-states-a-A.png",
     "Master Thesis/Resources/Pasted image 20231122142000.png",
-    "Untitled.canvas",
     "Generative AI for (bio)molecule design/Literature Survey/Untitled.canvas"
   ]
 }

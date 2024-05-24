@@ -7,5 +7,6 @@
   "link-headers-directly",
   "table-editor-obsidian",
   "obsidian-git",
-  "obsidian-paste-image-rename"
+  "obsidian-paste-image-rename",
+  "code-styler"
 ]
