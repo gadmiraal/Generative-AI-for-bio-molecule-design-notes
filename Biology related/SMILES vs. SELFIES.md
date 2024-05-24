@@ -9,4 +9,6 @@ An example of the SMILES representation is shown in the figure above. In SMILES,
 Even though its ubiquity SMILES still suffers from some flaws. The first being that for a single molecule several string representations are possible. This can be fixed by getting the canonical string from [[RDKit]]. The second is that one can create many SMILES strings that do not map to a valid molecule. This is especially problematic for the generation of novel molecules.
 
 ## SELFIES
-SELF-referencing embedded string (SELFIES) is a 100% robust molecular string representation, meaning that all 
+SELF-referencing embedded string (SELFIES) is a 100% robust molecular string representation, meaning that any possible combination of tokens correspond to a chemically valid molecule. SELFIES is a formal grammar (or automaton) with derivation rules. This can be understood as a small computer program with minimal memory to achieve 100% robust derivation. The SELFIES grammar is designed with the explicit aim of eliminating syntactically and semantically invalid molecules, for example in generative tasks.
+
+Special symbols (such as \[Branch1\] or \[Ring1\]) start a branch or ring. Instead of using an end symbol, the subsequent token in the string defines the length of the branch or ring.
