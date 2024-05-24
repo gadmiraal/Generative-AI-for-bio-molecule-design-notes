@@ -20,22 +20,24 @@
             }
           },
           {
-            "id": "0bd69468335fca03",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
-          },
-          {
             "id": "88fa4ca3cc18ef5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML related/Diffusion Models/D3PM.md",
+                "file": "Biology related/Atom-by-atom.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0bcecb3b92bea49d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology related/SMILES vs. SELFIES.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML related/Diffusion Models/D3PM.md",
+                "file": "Biology related/SMILES vs. SELFIES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML related/Diffusion Models/D3PM.md",
+                "file": "Biology related/SMILES vs. SELFIES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML related/Diffusion Models/D3PM.md"
+                "file": "Biology related/SMILES vs. SELFIES.md"
               }
             }
           }
@@ -170,8 +172,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "88fa4ca3cc18ef5d",
+  "active": "0bcecb3b92bea49d",
   "lastOpenFiles": [
+    "Biology related/Amino acids.md",
+    "Biology related/SMILES vs. SELFIES.md",
+    "Biology related/Atom-by-atom.md",
+    "SMILES_figure.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Biology related/Proteins.md",
+    "ML related/Diffusion Models/D3PM.md",
     "Master Thesis/Weekly updates/pptF4AE.tmp",
     "Master Thesis/Weekly updates/~$Weekly_Update_14.pptx",
     "Master Thesis/Weekly updates/ppt8BAD.tmp",
@@ -181,7 +191,6 @@
     "Master Thesis/Weekly updates/~$Weekly_Update_13.pptx",
     "Master Thesis/Weekly updates/pptB82E.tmp",
     "ML related/Diffusion Models/Diffusion Model.md",
-    "ML related/Diffusion Models/D3PM.md",
     "ML related/Diffusion Models/Diffusion based Inpainting.md",
     "ML related/Diffusion Models/Guidance in Diffusion Models.md",
     "ML related/Diffusion Models/Score-Based Generative Models.md",
@@ -194,11 +203,7 @@
     "ML related/Diffusion Models/Equivariant Neural Network Models.md",
     "ML related/Diffusion Models/Diffusion Models for Protein Design.md",
     "ML related/Language Models/Language models.md",
-    "Master Thesis/Resources/~$Plannig.xlsx",
     "Master Thesis/Resources/diffusion_process.png",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Biology related/Atom-by-atom.md",
     "Master Thesis/Ideas.md",
     "Untitled 6.png",
     "Untitled 5.png",
@@ -206,7 +211,6 @@
     "Untitled 3.png",
     "Untitled 2.png",
     "Untitled 1.png",
-    "Biology related/Proteins.md",
     "Master Thesis/Papers/Summary - Atom-by-atom protein generation and beyond with language models.md",
     "ML related/Data augmentation.md",
     "ML related/Scenarios/Scenario 2.md",
@@ -214,8 +218,6 @@
     "ML related/Scenarios/Scenario 3.md",
     "ML related/Scenarios/Scenario 1.md",
     "To-do.md",
-    "Literature Survey/Papers/Interesting Papers Literature Survey.md",
-    "README.md",
     "Literature Survey/Resources/Example-of-a-protein-structure-pair-between-ligand-bound-and-unbound-states-a-A.png",
     "Master Thesis/Resources/Pasted image 20231122142000.png",
     "Untitled.canvas",
