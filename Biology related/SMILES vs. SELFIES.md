@@ -20,4 +20,10 @@ float add(float a, float b) { return a + b; }
 ```
 
 In SELFIES overloading is also used to encode chemical structures in a way that eliminates syntactic errors, such as unbalanced parentheses or ring identifiers, which is possible in SMILES. 
-Special symbols (such as \[Branch1\] or \[Ring1\]) start a branch or ring. Instead of using an end symbol, the subsequent token in the string defines the length of the branch or ring.
+Special symbols (such as \[Branch1\] or \[Ring1\]) start a branch or ring. Instead of using an end symbol, the subsequent token in the string defines the length of the branch or ring. An example is shown below
+
+``` ln:false
+ [C][Branch1][Ring2][C][C][C][C][C][C]
+```
+
+Here you can see that `[Ring2]` is overloaded and defines the length of the `[Branch1]`. Each token corresponds to a different value which is predefined. The `[Ring2]` corresponds to a value of $Q=2$ and thus the length of the branch is defined as $Q+1=3$.
