@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML related/Language Models/Language Models for protein design.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88fa4ca3cc18ef5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Biology related/SMILES vs. SELFIES.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,11 +147,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "88fa4ca3cc18ef5d",
+  "active": "68b2ef851586d4ea",
   "lastOpenFiles": [
+    "ML related/Language Models/Language Models for protein design.md",
     "benzene.png",
-    "Biology related/Atom-by-atom.md",
     "Biology related/SMILES vs. SELFIES.md",
+    "CCCC(CC)CC.png",
+    "[.md",
+    "Biology related/Atom-by-atom.md",
     "Untitled.canvas",
     "Biology related/Amino acids.md",
     "SMILES_figure.md",
@@ -187,7 +177,6 @@
     "ML related/Diffusion Models/Stochastic Differential Equations.md",
     "Discrete diffusion.png",
     "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
-    "ML related/Language Models/Language Models for protein design.md",
     "Master Thesis/Papers/pdfs/G. Valentini et al. (2023) - The promises of large language models for protein design and modeling.pdf",
     "Master Thesis/Papers/pdfs/D. Flam-Shepherd et al. (2022) - Language models can learn complex molecular.pdf",
     "ML related/Diffusion Models/Equivariant Neural Network Models.md",
@@ -200,15 +189,11 @@
     "Untitled 4.png",
     "Untitled 3.png",
     "Untitled 2.png",
-    "Untitled 1.png",
     "Master Thesis/Papers/Summary - Atom-by-atom protein generation and beyond with language models.md",
     "ML related/Data augmentation.md",
     "ML related/Scenarios/Scenario 2.md",
     "ML related/Scenarios/Scenario 4.md",
     "ML related/Scenarios/Scenario 3.md",
-    "ML related/Scenarios/Scenario 1.md",
-    "Literature Survey/Resources/Example-of-a-protein-structure-pair-between-ligand-bound-and-unbound-states-a-A.png",
-    "Master Thesis/Resources/Pasted image 20231122142000.png",
     "Generative AI for (bio)molecule design/Literature Survey/Untitled.canvas"
   ]
 }
