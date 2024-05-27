@@ -28,7 +28,7 @@ Special symbols (such as \[Branch1\] or \[Ring1\]) start a branch or ring. Inste
 
 Here you can see that `[Ring2]` is overloaded and defines the length of the `[Branch1]`. Each token corresponds to a different value which is predefined. The `[Ring2]` corresponds to a value of $Q=2$ and thus the length of the branch is defined as $Q+1=3$.
 
-Another example is the molecule benzene for which its SELFIES string is given below. Here we see that we have a ring `[Ring1]` that has the overloaded `[=Branch1]` token which indicates now that the current atom is connected to the ($Q+ 1=4+1=5$)st previous atom.
+Another example is the molecule benzene for which its SELFIES string is given below. Here we see that we have a ring `[Ring1]` that has the overloaded `[=Branch1]` token which indicates now that the current atom `[=C]` is connected to the ($Q+ 1=4+1=5$)st previous atom. This thus results in a valid benzene ring of $6$ carbon atoms.
 
 ``` ln:false
 [C][=C][C][=C][C][=C][Ring1][=Branch1]
