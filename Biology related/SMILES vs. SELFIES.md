@@ -33,3 +33,5 @@ Another example is the molecule benzene for which its SELFIES string is given be
 ``` ln:false
 [C][=C][C][=C][C][=C][Ring1][=Branch1]
 ```
+
+![[benzene.png]]
