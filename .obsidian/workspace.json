@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology related/SMILES vs. SELFIES.md",
+                "file": "ML related/Diffusion Models/Diffusion Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology related/SMILES vs. SELFIES.md",
+                "file": "ML related/Diffusion Models/Diffusion Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology related/SMILES vs. SELFIES.md",
+                "file": "ML related/Diffusion Models/Diffusion Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology related/SMILES vs. SELFIES.md"
+                "file": "ML related/Diffusion Models/Diffusion Model.md"
               }
             }
           }
@@ -149,11 +149,11 @@
   },
   "active": "68b2ef851586d4ea",
   "lastOpenFiles": [
+    "Biology related/SMILES vs. SELFIES.md",
     "Master Thesis/Weekly updates/ppt2F4D.tmp",
     "Master Thesis/Weekly updates/pptDA2.tmp",
     "ML related/Language Models/Language Models for protein design.md",
     "benzene.png",
-    "Biology related/SMILES vs. SELFIES.md",
     "CCCC(CC)CC.png",
     "[.md",
     "Biology related/Atom-by-atom.md",
@@ -179,7 +179,6 @@
     "ML related/Diffusion Models/Stochastic Differential Equations.md",
     "Discrete diffusion.png",
     "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
-    "Master Thesis/Papers/pdfs/G. Valentini et al. (2023) - The promises of large language models for protein design and modeling.pdf",
     "ML related/Diffusion Models/Equivariant Neural Network Models.md",
     "ML related/Diffusion Models/Diffusion Models for Protein Design.md",
     "ML related/Language Models/Language models.md",
