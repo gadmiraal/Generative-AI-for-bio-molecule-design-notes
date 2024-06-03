@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML related/Diffusion Models/Diffusion Model.md",
+                "file": "CS related/Diffusion Models/Connection between Discrete Diffusion and MLMs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML related/Diffusion Models/Diffusion Model.md",
+                "file": "CS related/Diffusion Models/Connection between Discrete Diffusion and MLMs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML related/Diffusion Models/Diffusion Model.md",
+                "file": "CS related/Diffusion Models/Connection between Discrete Diffusion and MLMs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML related/Diffusion Models/Diffusion Model.md"
+                "file": "CS related/Diffusion Models/Connection between Discrete Diffusion and MLMs.md"
               }
             }
           }
@@ -149,21 +149,26 @@
   },
   "active": "68b2ef851586d4ea",
   "lastOpenFiles": [
+    "CS related/Diffusion Models/D3PM.md",
+    "Master Thesis/Resources/diffusion_process.png",
+    "Master Thesis/Resources/Pasted image 20231122142000.png",
+    "README.md",
+    "Resources/benzene.png",
+    "Untitled.canvas",
+    "CS related/Diffusion Models/Connection between Discrete Diffusion and MLMs.md",
+    "Resources",
+    "[.md",
+    "CS related/Diffusion Models/Diffusion Model.md",
     "Biology related/SMILES vs. SELFIES.md",
     "Master Thesis/Weekly updates/ppt2F4D.tmp",
     "Master Thesis/Weekly updates/pptDA2.tmp",
-    "ML related/Language Models/Language Models for protein design.md",
-    "benzene.png",
-    "CCCC(CC)CC.png",
-    "[.md",
+    "CS related/Language Models/Language Models for protein design.md",
+    "Resources/CCCC(CC)CC.png",
     "Biology related/Atom-by-atom.md",
-    "Untitled.canvas",
     "Biology related/Amino acids.md",
     "SMILES_figure.md",
-    "Untitled.md",
     "Untitled 1.md",
     "Biology related/Proteins.md",
-    "ML related/Diffusion Models/D3PM.md",
     "Master Thesis/Weekly updates/pptF4AE.tmp",
     "Master Thesis/Weekly updates/~$Weekly_Update_14.pptx",
     "Master Thesis/Weekly updates/ppt8BAD.tmp",
@@ -171,18 +176,15 @@
     "Master Thesis/Weekly updates/Weekly_Update_14.pptx",
     "Master Thesis/Weekly updates/Weekly_Update_13 - Copy.pptx",
     "Master Thesis/Weekly updates/~$Weekly_Update_13.pptx",
-    "Master Thesis/Weekly updates/pptB82E.tmp",
-    "ML related/Diffusion Models/Diffusion Model.md",
-    "ML related/Diffusion Models/Diffusion based Inpainting.md",
-    "ML related/Diffusion Models/Guidance in Diffusion Models.md",
-    "ML related/Diffusion Models/Score-Based Generative Models.md",
-    "ML related/Diffusion Models/Stochastic Differential Equations.md",
-    "Discrete diffusion.png",
+    "CS related/Diffusion Models/Diffusion based Inpainting.md",
+    "CS related/Diffusion Models/Guidance in Diffusion Models.md",
+    "CS related/Diffusion Models/Score-Based Generative Models.md",
+    "CS related/Diffusion Models/Stochastic Differential Equations.md",
+    "Resources/Discrete diffusion.png",
     "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
-    "ML related/Diffusion Models/Equivariant Neural Network Models.md",
-    "ML related/Diffusion Models/Diffusion Models for Protein Design.md",
-    "ML related/Language Models/Language models.md",
-    "Master Thesis/Resources/diffusion_process.png",
+    "CS related/Diffusion Models/Equivariant Neural Network Models.md",
+    "CS related/Diffusion Models/Diffusion Models for Protein Design.md",
+    "CS related/Language Models/Language models.md",
     "Master Thesis/Ideas.md",
     "Untitled 6.png",
     "Untitled 5.png",
@@ -190,10 +192,9 @@
     "Untitled 3.png",
     "Untitled 2.png",
     "Master Thesis/Papers/Summary - Atom-by-atom protein generation and beyond with language models.md",
-    "ML related/Data augmentation.md",
+    "CS related/Data augmentation.md",
     "ML related/Scenarios/Scenario 2.md",
     "ML related/Scenarios/Scenario 4.md",
-    "ML related/Scenarios/Scenario 3.md",
     "Generative AI for (bio)molecule design/Literature Survey/Untitled.canvas"
   ]
 }
