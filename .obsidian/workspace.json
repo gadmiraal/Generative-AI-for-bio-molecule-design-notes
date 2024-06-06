@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS related/Diffusion Models/Connection between Discrete Diffusion and MLMs.md",
+                "file": "CS related/Diffusion Models/Connection between D3PM and MLMs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS related/Diffusion Models/Connection between Discrete Diffusion and MLMs.md",
+                "file": "CS related/Diffusion Models/Connection between D3PM and MLMs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS related/Diffusion Models/Connection between Discrete Diffusion and MLMs.md",
+                "file": "CS related/Diffusion Models/Connection between D3PM and MLMs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS related/Diffusion Models/Connection between Discrete Diffusion and MLMs.md"
+                "file": "CS related/Diffusion Models/Connection between D3PM and MLMs.md"
               }
             }
           }
@@ -149,13 +149,18 @@
   },
   "active": "68b2ef851586d4ea",
   "lastOpenFiles": [
+    "Master Thesis/Weekly updates/ppt74C1.tmp",
+    "Master Thesis/Weekly updates/~$Weekly_Update_17.pptx",
+    "Master Thesis/Weekly updates/Weekly_Update_17.pptx",
+    "Master Thesis/Weekly updates/Weekly_Update_16 - Copy.pptx",
+    "Master Thesis/Weekly updates/~$Weekly_Update_14.pptx",
     "CS related/Diffusion Models/D3PM.md",
     "Master Thesis/Resources/diffusion_process.png",
     "Master Thesis/Resources/Pasted image 20231122142000.png",
     "README.md",
     "Resources/benzene.png",
     "Untitled.canvas",
-    "CS related/Diffusion Models/Connection between Discrete Diffusion and MLMs.md",
+    "CS related/Diffusion Models/Connection between D3PM and MLMs.md",
     "Resources",
     "[.md",
     "CS related/Diffusion Models/Diffusion Model.md",
@@ -170,12 +175,8 @@
     "Untitled 1.md",
     "Biology related/Proteins.md",
     "Master Thesis/Weekly updates/pptF4AE.tmp",
-    "Master Thesis/Weekly updates/~$Weekly_Update_14.pptx",
     "Master Thesis/Weekly updates/ppt8BAD.tmp",
     "Master Thesis/Weekly updates/pptFD5A.tmp",
-    "Master Thesis/Weekly updates/Weekly_Update_14.pptx",
-    "Master Thesis/Weekly updates/Weekly_Update_13 - Copy.pptx",
-    "Master Thesis/Weekly updates/~$Weekly_Update_13.pptx",
     "CS related/Diffusion Models/Diffusion based Inpainting.md",
     "CS related/Diffusion Models/Guidance in Diffusion Models.md",
     "CS related/Diffusion Models/Score-Based Generative Models.md",
