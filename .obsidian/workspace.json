@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a14fbd27f5c62d8a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.2"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +158,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "68b2ef851586d4ea",
+  "active": "a14fbd27f5c62d8a",
   "lastOpenFiles": [
     "Master Thesis/Weekly updates/ppt74C1.tmp",
     "Master Thesis/Weekly updates/~$Weekly_Update_17.pptx",
