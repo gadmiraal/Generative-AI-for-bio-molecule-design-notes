@@ -23,9 +23,11 @@
             "id": "a14fbd27f5c62d8a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.2"
+                "file": "CS related/Diffusion Models/T5.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS related/Diffusion Models/Connection between D3PM and MLMs.md",
+                "file": "CS related/Diffusion Models/T5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS related/Diffusion Models/Connection between D3PM and MLMs.md",
+                "file": "CS related/Diffusion Models/T5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS related/Diffusion Models/Connection between D3PM and MLMs.md"
+                "file": "CS related/Diffusion Models/T5.md"
               }
             }
           }
@@ -160,6 +162,7 @@
   },
   "active": "a14fbd27f5c62d8a",
   "lastOpenFiles": [
+    "CS related/Diffusion Models/T5.md",
     "Master Thesis/Weekly updates/ppt74C1.tmp",
     "Master Thesis/Weekly updates/~$Weekly_Update_17.pptx",
     "Master Thesis/Weekly updates/Weekly_Update_17.pptx",
@@ -187,7 +190,6 @@
     "Biology related/Proteins.md",
     "Master Thesis/Weekly updates/pptF4AE.tmp",
     "Master Thesis/Weekly updates/ppt8BAD.tmp",
-    "Master Thesis/Weekly updates/pptFD5A.tmp",
     "CS related/Diffusion Models/Diffusion based Inpainting.md",
     "CS related/Diffusion Models/Guidance in Diffusion Models.md",
     "CS related/Diffusion Models/Score-Based Generative Models.md",
