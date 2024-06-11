@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "539bf44ca9378d3a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,7 +170,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a14fbd27f5c62d8a",
+  "active": "539bf44ca9378d3a",
   "lastOpenFiles": [
     "CS related/Diffusion Models/T5.md",
     "Master Thesis/Weekly updates/ppt74C1.tmp",
