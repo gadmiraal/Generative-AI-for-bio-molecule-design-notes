@@ -6,11 +6,11 @@
 ## Generation
 We start with pure noise $x_T$ (that is a uniform random sequence of our vocabulary)
 Then for $T \rightarrow 1$  we do
-	predict the logits $\hat{x}_0$ from $x_t$ and $t$ using our trained neural network
-	get the posterior from the predicted logits $q(\hat{x}_0 | x_t)$
-	on this posterior we add some noise if it is not the first step
-	we take the argmax on the first dimension
+	Predict the logits $\hat{x}_0$ from $x_t$ and $t$ using our trained neural network
+	Get the posterior from the predicted logits $q(\hat{x}_0 | x_t)$
+	Create Gumbel noise $\epsilon$  
+	On this posterior we add some noise if it is not the first step
+	We set $x_{t-1} by taking the argmax on the first dimension (we are using one-hot so we see which token in our vocabulary is most likely)
+Return $x_0$
 
-
-Get 
-Get predicted posterior logits $q(x_0|x_t, t)$ 
+Gumbel noise is added to the logits of the categorical distribution to introduce randomness, allowing for stochastic sampling. This approach is crucial for tasks where sampling needs to reflect the probabilities of the categories, rather than deterministically picking the highest probability every time
