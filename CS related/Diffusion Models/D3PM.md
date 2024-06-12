@@ -4,3 +4,5 @@
 
 
 ## Generation
+Get logits $\hat{x}_0$ from $x_t$ and $t$ 
+Get predicted posterior logits $q(x_0|x_t, t)$ 
