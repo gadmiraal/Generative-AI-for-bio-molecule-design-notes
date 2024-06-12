@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS related/Diffusion Models/D3PM.md",
+                "file": "CS related/Diffusion Models/T5.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS related/Diffusion Models/D3PM.md",
+                "file": "CS related/Diffusion Models/T5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS related/Diffusion Models/D3PM.md",
+                "file": "CS related/Diffusion Models/T5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS related/Diffusion Models/D3PM.md"
+                "file": "CS related/Diffusion Models/T5.md"
               }
             }
           }
@@ -162,6 +162,7 @@
   },
   "active": "a14fbd27f5c62d8a",
   "lastOpenFiles": [
+    "CS related/Diffusion Models/D3PM.md",
     "2020-08-13-GumbelSoftmax-fig3.png",
     "CS related/Diffusion Models/T5.md",
     "Master Thesis/Weekly updates/ppt74C1.tmp",
@@ -169,7 +170,6 @@
     "Master Thesis/Weekly updates/Weekly_Update_17.pptx",
     "Master Thesis/Weekly updates/Weekly_Update_16 - Copy.pptx",
     "Master Thesis/Weekly updates/~$Weekly_Update_14.pptx",
-    "CS related/Diffusion Models/D3PM.md",
     "Master Thesis/Resources/diffusion_process.png",
     "Master Thesis/Resources/Pasted image 20231122142000.png",
     "README.md",
@@ -205,7 +205,6 @@
     "Untitled 5.png",
     "Untitled 4.png",
     "Untitled 3.png",
-    "Untitled 2.png",
     "Master Thesis/Papers/Summary - Atom-by-atom protein generation and beyond with language models.md",
     "CS related/Data augmentation.md",
     "ML related/Scenarios/Scenario 2.md",
