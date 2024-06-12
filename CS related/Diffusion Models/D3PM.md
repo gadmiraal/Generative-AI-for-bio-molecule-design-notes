@@ -4,5 +4,13 @@
 
 
 ## Generation
-Get logits $\hat{x}_0$ from $x_t$ and $t$ 
+We start with pure noise $x_T$ (that is a uniform random sequence of our vocabulary)
+Then for $T \rightarrow 1$  we do
+	predict the logits $\hat{x}_0$ from $x_t$ and $t$ using our trained neural network
+	get the posterior from the predicted logits $q(\hat{x}_0 | x_t)$
+	on this posterior we add some noise if it is not the first step
+	we take the argmax on the first dimension
+
+
+Get 
 Get predicted posterior logits $q(x_0|x_t, t)$ 
