@@ -13,4 +13,9 @@ Then for $T \rightarrow 1$  we do
 	We set $x_{t-1} by taking the argmax on the first dimension (we are using one-hot so we see which token in our vocabulary is most likely)
 Return $x_0$
 
-Gumbel noise is added to the logits of the categorical distribution to introduce randomness, allowing for stochastic sampling. This approach is crucial for tasks where sampling needs to reflect the probabilities of the categories, rather than deterministically picking the highest probability every time
+Gumbel noise is added to the logits of the categorical distribution to introduce randomness, allowing for stochastic sampling. This approach is crucial for tasks where sampling needs to reflect the probabilities of the categories, rather than deterministically picking the highest probability every time.
+### Gumbel-Max trick
+By adding Gumbel noise and taking the argmax we are using the Gumbel-Max trick. This trick relies on the fact that the Gumbel distribution is used to model the distribution of maximums. Additionally, there is also a [mathematical proof](https://lips.cs.princeton.edu/the-gumbel-max-trick-for-discrete-distributions/) available that proves the Gumbel-Max Trick is equivalent to computing the SoftMax over a set of stochastically sampled points.
+
+![](https://sassafras13.github.io/images/2020-08-13-GumbelSoftmax-fig3.png)
+*Visual representation of the Gumbel-Max trick*
