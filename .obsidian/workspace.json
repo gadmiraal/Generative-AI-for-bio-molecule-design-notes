@@ -30,9 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "87fd0a1c12f85784",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,7 +168,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a14fbd27f5c62d8a",
+  "active": "87fd0a1c12f85784",
   "lastOpenFiles": [
     "Master Thesis/Weekly updates/pptFA4.tmp",
     "Master Thesis/Weekly updates/~$Weekly_Update_17.pptx",
