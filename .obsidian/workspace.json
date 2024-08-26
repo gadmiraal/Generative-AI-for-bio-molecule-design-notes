@@ -20,14 +20,24 @@
             }
           },
           {
-            "id": "a14fbd27f5c62d8a",
+            "id": "0d6790718c841c49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS related/Diffusion Models/T5.md",
+                "file": "CS related/Language Models/ByteNet.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "6c9d86449ce64f02",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
               }
             }
           },
@@ -37,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology related/Atom-by-atom.md",
+                "file": "CS related/Diffusion Models/Equivariant Neural Network Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology related/Atom-by-atom.md",
+                "file": "CS related/Language Models/ByteNet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology related/Atom-by-atom.md",
+                "file": "CS related/Language Models/ByteNet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology related/Atom-by-atom.md"
+                "file": "CS related/Language Models/ByteNet.md"
               }
             }
           }
@@ -172,8 +182,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "87fd0a1c12f85784",
+  "active": "6c9d86449ce64f02",
   "lastOpenFiles": [
+    "CS related/Diffusion Models/Equivariant Neural Network Models.md",
+    "CS related/Diffusion Models/Guidance in Diffusion Models.md",
+    "Biology related/SMILES vs. SELFIES.md",
+    "CS related/Diffusion Models/Diffusion Model.md",
+    "CS related/Diffusion Models/D3PM.md",
+    "CS related/Diffusion Models/T5.md",
+    "CS related/Diffusion Models/Connection between D3PM and MLMs.md",
+    "CS related/Language Models/Transformer.md",
+    "CS related/Language Models/ByteNet.md",
+    "Master Thesis/Weekly updates/~$Weekly_Update_24.pptx",
+    "Biology related/Atom-by-atom.md",
     "Master Thesis/Resources/6AEA7E00",
     "Master Thesis/Resources/~$Plannig.xlsx",
     "Master Thesis/Weekly updates/pptFA4.tmp",
@@ -183,34 +204,24 @@
     "Master Thesis/Weekly updates/pptC6DA.tmp",
     "Master Thesis/Weekly updates/~$Weekly_Update_18.pptx",
     "Master Thesis/Weekly updates/Weekly_Update_18.pptx",
-    "Master Thesis/Weekly updates/Weekly_Update_17 - Copy.pptx",
-    "CS related/Diffusion Models/D3PM.md",
     "2020-08-13-GumbelSoftmax-fig3.png",
-    "CS related/Diffusion Models/T5.md",
-    "Master Thesis/Weekly updates/ppt74C1.tmp",
     "Master Thesis/Resources/diffusion_process.png",
     "Master Thesis/Resources/Pasted image 20231122142000.png",
     "README.md",
     "Resources/benzene.png",
     "Untitled.canvas",
-    "CS related/Diffusion Models/Connection between D3PM and MLMs.md",
     "[.md",
-    "CS related/Diffusion Models/Diffusion Model.md",
-    "Biology related/SMILES vs. SELFIES.md",
     "CS related/Language Models/Language Models for protein design.md",
     "Resources/CCCC(CC)CC.png",
-    "Biology related/Atom-by-atom.md",
     "Biology related/Amino acids.md",
     "SMILES_figure.md",
     "Untitled 1.md",
     "Biology related/Proteins.md",
     "CS related/Diffusion Models/Diffusion based Inpainting.md",
-    "CS related/Diffusion Models/Guidance in Diffusion Models.md",
     "CS related/Diffusion Models/Score-Based Generative Models.md",
     "CS related/Diffusion Models/Stochastic Differential Equations.md",
     "Resources/Discrete diffusion.png",
     "Master Thesis/MSc Thesis Scenarios for All-atom representation.md",
-    "CS related/Diffusion Models/Equivariant Neural Network Models.md",
     "CS related/Diffusion Models/Diffusion Models for Protein Design.md",
     "CS related/Language Models/Language models.md",
     "Master Thesis/Ideas.md",
@@ -220,7 +231,6 @@
     "Untitled 3.png",
     "Master Thesis/Papers/Summary - Atom-by-atom protein generation and beyond with language models.md",
     "CS related/Data augmentation.md",
-    "ML related/Scenarios/Scenario 2.md",
     "Generative AI for (bio)molecule design/Literature Survey/Untitled.canvas"
   ]
 }
