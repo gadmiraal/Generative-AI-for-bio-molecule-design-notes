@@ -25,19 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS related/Language Models/ByteNet.md",
+                "file": "Biology related/SMILES vs. SELFIES.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "6c9d86449ce64f02",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
               }
             }
           },
@@ -54,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS related/Language Models/ByteNet.md",
+                "file": "Biology related/SMILES vs. SELFIES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS related/Language Models/ByteNet.md",
+                "file": "Biology related/SMILES vs. SELFIES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS related/Language Models/ByteNet.md"
+                "file": "Biology related/SMILES vs. SELFIES.md"
               }
             }
           }
@@ -182,8 +172,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c9d86449ce64f02",
+  "active": "0d6790718c841c49",
   "lastOpenFiles": [
+    "CS related/Language Models/ByteNet.md",
     "Master Thesis/Weekly updates/~$Weekly_Update_18.pptx",
     "Master Thesis/Weekly updates/~$Weekly_Update_17.pptx",
     "Master Thesis/Weekly updates/~$Weekly_Update_21.pptx",
@@ -195,7 +186,6 @@
     "CS related/Diffusion Models/T5.md",
     "CS related/Diffusion Models/Connection between D3PM and MLMs.md",
     "CS related/Language Models/Transformer.md",
-    "CS related/Language Models/ByteNet.md",
     "Master Thesis/Weekly updates/~$Weekly_Update_24.pptx",
     "Biology related/Atom-by-atom.md",
     "Master Thesis/Resources/6AEA7E00",
@@ -204,7 +194,6 @@
     "Master Thesis/Weekly updates/~$Weekly_Update_16.pptx",
     "Master Thesis/Weekly updates/~$Weekly_Update_14.pptx",
     "Master Thesis/Weekly updates/pptC6DA.tmp",
-    "Master Thesis/Weekly updates/Weekly_Update_18.pptx",
     "2020-08-13-GumbelSoftmax-fig3.png",
     "Master Thesis/Resources/diffusion_process.png",
     "Master Thesis/Resources/Pasted image 20231122142000.png",
