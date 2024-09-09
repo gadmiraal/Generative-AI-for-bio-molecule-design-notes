@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology related/SMILES vs. SELFIES.md",
+                "file": "CS related/Diffusion Models/D3PM.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology related/SMILES vs. SELFIES.md",
+                "file": "CS related/Diffusion Models/D3PM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology related/SMILES vs. SELFIES.md",
+                "file": "CS related/Diffusion Models/D3PM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology related/SMILES vs. SELFIES.md"
+                "file": "CS related/Diffusion Models/D3PM.md"
               }
             }
           }
@@ -174,6 +174,7 @@
   },
   "active": "0d6790718c841c49",
   "lastOpenFiles": [
+    "Biology related/SMILES vs. SELFIES.md",
     "Master Thesis/Weekly updates/ppt3470.tmp",
     "CS related/Language Models/ByteNet.md",
     "Master Thesis/Weekly updates/~$Weekly_Update_18.pptx",
@@ -181,7 +182,6 @@
     "Master Thesis/Weekly updates/~$Weekly_Update_21.pptx",
     "CS related/Diffusion Models/Equivariant Neural Network Models.md",
     "CS related/Diffusion Models/Guidance in Diffusion Models.md",
-    "Biology related/SMILES vs. SELFIES.md",
     "CS related/Diffusion Models/Diffusion Model.md",
     "CS related/Diffusion Models/D3PM.md",
     "CS related/Diffusion Models/T5.md",
@@ -194,7 +194,6 @@
     "Master Thesis/Weekly updates/pptFA4.tmp",
     "Master Thesis/Weekly updates/~$Weekly_Update_16.pptx",
     "Master Thesis/Weekly updates/~$Weekly_Update_14.pptx",
-    "Master Thesis/Weekly updates/pptC6DA.tmp",
     "2020-08-13-GumbelSoftmax-fig3.png",
     "Master Thesis/Resources/diffusion_process.png",
     "Master Thesis/Resources/Pasted image 20231122142000.png",
