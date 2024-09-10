@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "35fe7c91756c1c1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Why did it not work.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "87fd0a1c12f85784",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS related/Diffusion Models/D3PM.md",
+                "file": "Why did it not work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS related/Diffusion Models/D3PM.md",
+                "file": "Why did it not work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS related/Diffusion Models/D3PM.md"
+                "file": "Why did it not work.md"
               }
             }
           }
@@ -172,8 +184,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0d6790718c841c49",
+  "active": "35fe7c91756c1c1c",
   "lastOpenFiles": [
+    "CS related/Diffusion Models/D3PM.md",
+    "Why did it not work.md",
     "Biology related/SMILES vs. SELFIES.md",
     "Master Thesis/Weekly updates/ppt3470.tmp",
     "CS related/Language Models/ByteNet.md",
@@ -183,7 +197,6 @@
     "CS related/Diffusion Models/Equivariant Neural Network Models.md",
     "CS related/Diffusion Models/Guidance in Diffusion Models.md",
     "CS related/Diffusion Models/Diffusion Model.md",
-    "CS related/Diffusion Models/D3PM.md",
     "CS related/Diffusion Models/T5.md",
     "CS related/Diffusion Models/Connection between D3PM and MLMs.md",
     "CS related/Language Models/Transformer.md",
