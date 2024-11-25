@@ -16,7 +16,9 @@
                 "file": "CS related/Diffusion Models/Connection between D3PM and MLMs.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Connection between D3PM and MLMs"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "CS related/Diffusion Models/D3PM.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "D3PM"
             }
           },
           {
@@ -40,7 +44,23 @@
                 "file": "Biology related/SMILES vs. SELFIES.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "SMILES vs. SELFIES"
+            }
+          },
+          {
+            "id": "43a0281bd5ad4ae4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology related/Proteins.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Proteins"
             }
           },
           {
@@ -52,11 +72,13 @@
                 "file": "CS related/Diffusion Models/Equivariant Neural Network Models.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Equivariant Neural Network Models"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -76,7 +98,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -91,7 +115,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -99,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -122,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology related/SMILES vs. SELFIES.md",
+                "file": "Biology related/Proteins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +158,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Proteins"
             }
           },
           {
@@ -139,10 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology related/SMILES vs. SELFIES.md",
+                "file": "Biology related/Proteins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Proteins"
             }
           },
           {
@@ -153,7 +185,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -162,8 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology related/SMILES vs. SELFIES.md"
-              }
+                "file": "Biology related/Proteins.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Proteins"
             }
           }
         ]
@@ -184,21 +220,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35fe7c91756c1c1c",
+  "active": "43a0281bd5ad4ae4",
   "lastOpenFiles": [
+    "Master Thesis/Weekly updates/pptE185.tmp",
+    "Master Thesis/Weekly updates/pptDA7E.tmp",
+    "Master Thesis/Weekly updates/ppt568C.tmp",
+    "Master Thesis/Weekly updates/ppt6511.tmp",
+    "Master Thesis/Resources/~$Plannig.xlsx",
+    "Master Thesis/Weekly updates/~$Weekly Update #29.pptx",
+    "Master Thesis/Weekly updates/Weekly Update #29.pptx",
+    "Master Thesis/Weekly updates/Weekly Update #28 - Copy.pptx",
+    "Master Thesis/Resources/backbone_analysis-1.png",
+    "Master Thesis/Resources/backbone_analysis.pdf",
+    "Master Thesis/Resources/backbone_analysis.ai",
     "CS related/Language Models/ByteNet.md",
     "Master Thesis/Weekly updates/~$Weekly_Update_27.pptx",
-    "Master Thesis/Weekly updates/Weekly_Update_27.pptx",
-    "Master Thesis/Weekly updates/Weekly_Update_26 - Copy.pptx",
-    "Master Thesis/Weekly updates/~$Weekly_Update_24.pptx",
-    "Master Thesis/Weekly updates/~$Weekly_Update_25.pptx",
     "Biology related/SMILES vs. SELFIES.md",
     "Why did it not work.md",
-    "Master Thesis/Resources/C229E900",
-    "Master Thesis/Weekly updates/pptC912.tmp",
-    "Master Thesis/Weekly updates/~$Weekly_Update_26.pptx",
-    "Master Thesis/Resources/~$Plannig.xlsx",
-    "Master Thesis/Weekly updates/Weekly_Update_26.pptx",
     "CS related/Diffusion Models/D3PM.md",
     "CS related/Diffusion Models/Equivariant Neural Network Models.md",
     "CS related/Diffusion Models/Guidance in Diffusion Models.md",
@@ -231,7 +269,6 @@
     "Untitled 6.png",
     "Untitled 5.png",
     "Untitled 4.png",
-    "Untitled 3.png",
     "Generative AI for (bio)molecule design/Literature Survey/Untitled.canvas"
   ]
 }
